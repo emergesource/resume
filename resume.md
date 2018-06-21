@@ -1,5 +1,7 @@
 # Colin Campbell
-## Fullstack Software Developer
+
+## About
+A dynamic full stack software developer available to make an immediate impact on any project or development team.
 
 95 Picola ct
 Toronto, ON M2H 2N2
@@ -10,8 +12,6 @@ github (https://github.com/colincode)
 linkedin (https://www.linkedin.com/in/colincode/)
 www (http://elusivelabs.com/colin)
 
-
-A dynamic full stack software developer available to make an immediate impact on any project or development team.
 
 ## Work Experience
 
