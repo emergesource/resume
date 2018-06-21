@@ -16,8 +16,8 @@ A dynamic full stack software developer available to make an immediate impact on
 ## Work Experience
 
 Tucows
-Senior Software Developer/Team Lead
-In a Senior Developer/Team lead role at Tucows, my daily responsibilities include platform development, sprint planning, code reviews & general guidance. I’ve developed a component based UI platform with React & Flux that is quickly gaining adoption by many teams throughout the company.  My experience also allows me to pitch in with legacy development & solutions building as well as new product development & system architecture.
+Team Lead
+In a Team lead role at Tucows, my daily responsibilities include platform development, sprint planning, code reviews & general guidance. I’ve developed a component based UI platform with React & Flux that is quickly gaining adoption by many teams throughout the company.  My experience also allows me to pitch in with legacy development & solutions building as well as new product development & system architecture.
 
 
 Fire Engine Red
