@@ -8,9 +8,9 @@ Toronto, ON M2H 2N2
 (416) 995-9404
 colin@elusivelabs.com
 
-github (https://github.com/colincode)
-linkedin (https://www.linkedin.com/in/colincode/)
-www (http://elusivelabs.com/colin)
+* github (https://github.com/colincode)
+* linkedin (https://www.linkedin.com/in/colincode/)
+* www (http://elusivelabs.com/colin)
 
 
 ## Work Experience
