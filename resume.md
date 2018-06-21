@@ -39,7 +39,7 @@ Database Design, Application Architecture
 ### Languages
 Python, Javascript/Nodejs, Perl, C/C++, Bash
 
-Libraries/Frameworks
+### Libraries/Frameworks
 React, Flux, Vuejs, Django, Express, Perl/Catalyst, Laravel, Zend Framework, JQuery, Bootstrap, Doctrine ORM, GTK
 
 ### Testing
@@ -51,11 +51,8 @@ GNU/Linux (Debian/Ubuntu), FreeBSD, SCO UNIX
 ### Database
 PostgreSQL, MySQL, MongoDB
 
-### Devops
+### Devopss
 Docker, Jenkins, Apache, Nginx
-
-### Design
-Object Oriented Analysis and Design, Object Oriented Design Patterns, Relational Database Design
 
 ## Project Management
 Git, JIRA, Bitbucket, Pivotal Tracker, Asana
