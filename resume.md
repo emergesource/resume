@@ -1,5 +1,5 @@
-Colin Campbell
-Fullstack Software Developer
+# Colin Campbell
+## Fullstack Software Developer
 
 95 Picola ct
 Toronto, ON M2H 2N2
@@ -13,7 +13,7 @@ www (http://elusivelabs.com/colin)
 
 A dynamic full stack software developer available to make an immediate impact on any project or development team.
 
-Work Experience
+## Work Experience
 
 Tucows
 Senior Software Developer/Team Lead
@@ -31,7 +31,7 @@ As the Senior Software developer on staff, I was responsible for a small team de
 
 
 
-Skills
+## Skills
 Object Oriented Analysis and Design, Object Oriented Design Patterns, Relational
 Database Design, Application Architecture
 
@@ -59,15 +59,13 @@ Object Oriented Analysis and Design, Object Oriented Design Patterns, Relational
 Project Management
 Git, JIRA, Bitbucket, Pivotal Tracker, Asana
 
-Education
+## Education
 Seneca College
 Computer Programming and Analysis Diploma
 Applications developer specialization 
 Internet Specialist specialization
 
 
-Awards & Achievements
-
-Interests
+## Interests
 Captain of my “E” league championship hockey team
 Guitar player extraordinaire
