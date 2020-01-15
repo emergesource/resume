@@ -3,7 +3,8 @@ COLIN CAMPBELL
 EXEPRIENCE
 
 Tucows 2015 - Present
-Senior Software Developer/Team Lead In a Senior Developer/Team lead role at
+Engineering Manager
+
 Tucows, my daily responsibilities include platform development, sprint planning,
 code reviews & general guidance. I’ve developed a component based UI platform
 with React & Flux that is quickly gaining adoption by many teams throughout the
