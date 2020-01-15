@@ -31,7 +31,8 @@ Senior Developer
 
 Technology Stack:
 
-## Senior Developer: Fire Engine Red (2012 - 2015) 
+FIRE ENGINE RED
+Senior Software Developer | 2012 - 2015
 
 Fireworks CRM
 * Primary Search Engineer
@@ -42,7 +43,9 @@ Fireworks CRM
 
 Technology Stack:
 
-## Senior Developer: Medical Pharmacies Group Limited (2003 - 2012)
+MEDICAL PHARMACIES GROUP LTD
+Senior Software Developer | 2003 - 2012
+
 * Lead small team (3)
 * Application design & analysis
 * Application Development
