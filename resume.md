@@ -1,5 +1,8 @@
-Colin Campbell
-Software Professional
+## Colin Campbell
+### Engineering Leader
+#### Toronto, CANADA
+
+A dynamic full stack software professional available to make an immediate impact on any project or development team.
 
 95 Picola ct
 Toronto, ON M2H 2N2
@@ -11,8 +14,7 @@ linkedin (https://www.linkedin.com/in/colincode/)
 www (http://elusivelabs.com/colin)
 
 ## Summary
-A dynamic full stack software developer available to make an immediate impact on any project or development team.
-- - - -
+
 
 
 ## Employment History
@@ -20,9 +22,9 @@ A dynamic full stack software developer available to make an immediate impact on
 TUCOWS INC 
 Software Development Manager | 2015 - Current
 
-* Lead cross functional development teams
-* Application architecture 
-* Agile best practices
+* Lead cross functional development teams of 5 people
+* Design & build pplication architecture 
+* Promote Engineering best practices
 * Provide mentoring and coaching
 
 Manager, Engineering
