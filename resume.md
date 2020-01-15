@@ -20,16 +20,18 @@ www (http://elusivelabs.com/colin)
 ## Employment History
 
 TUCOWS INC 
-Software Development Manager | 2015 - Current
+Software Development Manager, Domains Engineering | 2018 - Current
 
 * Lead cross functional development teams of 5 people
 * Design & build pplication architecture 
 * Promote Engineering best practices
 * Provide mentoring and coaching
 
-Manager, Engineering
-Team Lead, Engineering
-Senior Developer
+TUCOWS INC 
+Team Lead, Domains Engineering | 2016 - 2018
+
+TUCOWS INC
+Senior Developer, Domains Engineering | 2015 - 2016
 
 Technology Stack:
 
