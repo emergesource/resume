@@ -1,5 +1,5 @@
 # Colin Campbell
-## Engineering Leader 
+## Engineering Lead
 ### Toronto, CANADA
 
 > * <i class="fas fa-desktop"></i> [https://eluslivelabs.com/colin](https://elusivelabs.com/colin)

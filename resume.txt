@@ -61,7 +61,9 @@ Languages
 -   Perl,
 -   C/C++
 
-Microservices * Kafka
+Microservices
+
+-   Kafka
 
 Libraries/Frameworks
 
