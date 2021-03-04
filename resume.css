@@ -51,3 +51,8 @@ blockquote {
 blockquote ul {
     list-style: none;
 }
+
+a:link, a:visited {
+    color: #1e1e1e;
+}
+
