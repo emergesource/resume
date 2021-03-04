@@ -9,6 +9,7 @@
 
 A dynamic full stack software professional available to make an immediate impact on any project or development team.
 
+<br/>
 
 ### Employment History:
 
@@ -35,6 +36,8 @@ A dynamic full stack software professional available to make an immediate impact
 * System architeture
 * First to market on innovative pharmacy interaction tools.
 
+<br/>
+
 ### Skills:
 * Team Building, Leadership, Mentoring
 * Programming, Architecture, Design
@@ -45,6 +48,8 @@ A dynamic full stack software professional available to make an immediate impact
 * Kafka, Redis, PostgreSQL, MySQL
 * Hashistack
 * React, Vuejs
+
+<br/>
 
 ### Education:
 #### Seneca College
