@@ -1,6 +1,6 @@
 # Colin Campbell
 ## Engineering Leader
-<!-- ### Toronto, CANADA -->
+### Toronto, CANADA
 
 > web: [https://eluslivelabs.com/colin](https://elusivelabs.com/colin)
 > email: [colin@elusivelabs.com](mailto:colin@elusivelabs.com)
