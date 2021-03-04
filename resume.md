@@ -18,19 +18,19 @@ A dynamic full stack software professional available to make an immediate impact
 
 ## Employment History
 
-**Manager Engineering, TUCOWS INC**  2018 - Current
+**Manager Engineering, TUCOWS INC**  _// 2018 - present_
 
 * Lead cross functional development teams of 5 people
 * Design & build pplication architecture 
 * Promote Engineering best practices
 * Provide mentoring and coaching
 
-**Team Lead, TUCOWS INC** 2016 - 2018
+**Team Lead, TUCOWS INC** _// 2016 - 2018_
 
 TUCOWS INC
-**Senior Developer, TUCOWS INC** 2015 - 2016
+**Senior Developer, TUCOWS INC** _// 2015 - 2016_
 
-**Senior Software Developer, FIRE ENGINE RED** 2012 - 2015
+**Senior Software Developer, FIRE ENGINE RED** _// 2012 - 2015_
 
 Fireworks CRM
 * Primary Search Engineer
@@ -41,7 +41,7 @@ Fireworks CRM
 
 Technology Stack:
 
-**Senior Software Developer, MEDICAL PHARMACIES GROUP LTD** 2003 - 2012
+**Senior Software Developer, MEDICAL PHARMACIES GROUP LTD** _// 2003 - 2012_
 
 * Lead small team (3)
 * Application design & analysis
