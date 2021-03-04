@@ -42,4 +42,12 @@ h3 {
 blockquote {
     margin: 0;
     top: 0;
+    float: right;
+    right: 1em;
+    top: 1em;
+    position: absolute;
+}
+
+blockquote ul {
+    list-style: none;
 }
