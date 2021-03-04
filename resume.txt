@@ -66,8 +66,8 @@ Contact
 
 ------------------------------------------------------------------------
 
-  -    https://eluslivelabs.com/colin
   -    colin@elusivelabs.com
+  -    https://eluslivelabs.com/colin
   -    https://github.com/ccmpb
   -    https://linkedin.com/in/colincode
 

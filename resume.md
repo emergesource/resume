@@ -73,8 +73,8 @@ A dynamic full stack software professional available to make an immediate impact
 
 ---
 
-> * <i class="fas fa-desktop"></i> [https://eluslivelabs.com/colin](https://elusivelabs.com/colin)
 > * <i class="fas fa-envelope"></i> [colin@elusivelabs.com](mailto:colin@elusivelabs.com)
+> * <i class="fas fa-desktop"></i> [https://eluslivelabs.com/colin](https://elusivelabs.com/colin)
 > * <i class="fab fa-github"></i> [https://github.com/ccmpb](https://github.com/ccmpb)
 > * <i class="fab fa-linkedin-in"></i> [https://linkedin.com/in/colincode](https://www.linkedin.com/in/colincode/)
 
