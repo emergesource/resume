@@ -1,29 +1,11 @@
 @import url("https://use.fontawesome.com/releases/v5.15.2/css/all.css");
 
-/* clearfix */
-
-.container:before,
-.container:after {
-    content: "";
-    display: table;
-}
-
-.container:after {
-    clear: both;
-}
-
-/* For IE 6/7 (trigger hasLayout) */
-.container {
-    zoom: 1;
-}
-
 body {
     color: #1e1e1e;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     margin: auto;
     padding: 1em;
 }
-
 
 h1, h2, h3 {
     margin: 0;
