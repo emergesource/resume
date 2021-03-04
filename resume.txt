@@ -13,6 +13,8 @@ Summary
 A dynamic full stack software professional available to make an
 immediate impact on any project or development team.
 
+------------------------------------------------------------------------
+
 Employment History
 
 Manager Engineering, TUCOWS INC 2018 - Current
@@ -40,6 +42,8 @@ Senior Software Developer, MEDICAL PHARMACIES GROUP LTD 2003 - 2012
 -   Application Development
 -   System architeture
 -   First to market on innovative pharmacy interaction tools.
+
+------------------------------------------------------------------------
 
 Skills
 
@@ -75,12 +79,16 @@ Project Management
 
 Git, JIRA, Bitbucket, Pivotal Tracker, Asana
 
+------------------------------------------------------------------------
+
 Education
 
 Seneca College
 
 Computer Programming and Analysis Diploma Applications developer
 specialization Internet Specialist specialization
+
+------------------------------------------------------------------------
 
 Interests
 

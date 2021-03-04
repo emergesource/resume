@@ -14,6 +14,8 @@
 ## Summary
 A dynamic full stack software professional available to make an immediate impact on any project or development team.
 
+---
+
 ## Employment History
 
 **Manager Engineering, TUCOWS INC**  2018 - Current
@@ -47,6 +49,8 @@ Technology Stack:
 * System architeture
 * First to market on innovative pharmacy interaction tools.
 
+---
+
 ## Skills
 ### Design
 Object Oriented Analysis and Design, Object Oriented Design Patterns, Relational
@@ -73,11 +77,15 @@ Docker, Jenkins, Apache, Nginx, kubernetes, nomad, consul, vault
 ### Project Management
 Git, JIRA, Bitbucket, Pivotal Tracker, Asana
 
+---
+
 ## Education
 ### Seneca College
 Computer Programming and Analysis Diploma
 Applications developer specialization 
 Internet Specialist specialization
+
+---
 
 ## Interests
 Captain of my “E” league championship hockey team
