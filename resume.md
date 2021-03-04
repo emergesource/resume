@@ -1,6 +1,10 @@
-## Colin Campbell
-### Engineering Leader
-#### Toronto, CANADA
+# Colin Campbell
+## Engineering Lead
+> [https://eluslivelabs.com/colin](https://elusivelabs.com/colin)
+> [colin@elusivelabs.com](mailto:colin@elusivelabs.com)
+> (416) 995-9404
+
+### Toronto, CANADA
 
 A dynamic full stack software professional available to make an immediate impact on any project or development team.
 
@@ -11,7 +15,6 @@ colin@elusivelabs.com
 
 github (https://github.com/colincode)
 linkedin (https://www.linkedin.com/in/colincode/)
-www (http://elusivelabs.com/colin)
 
 ## Summary
 

@@ -1,65 +1,96 @@
-COLIN CAMPBELL
+Colin Campbell
 
-EXEPRIENCE
+Engineering Lead
 
-Tucows 2015 - Present
-Engineering Manager
+  https://eluslivelabs.com/colin colin@elusivelabs.com (416) 995-9404
 
-Tucows, my daily responsibilities include platform development, sprint planning,
-code reviews & general guidance. I’ve developed a component based UI platform
-with React & Flux that is quickly gaining adoption by many teams throughout the
-company.  My experience also allows me to pitch in with legacy development &
-solutions building as well as new product development & system architecture.
+Toronto, CANADA
 
-Fire Engine Red 2012 - 2015
-Senior Software Developer
-At Fire Engine Red I was part of a medium sized group of experienced developers
-and designers. I successfully managed projects right from requirements
-gathering, project analysis, software and database modelling through to coding
-testing and implementation.
-I was the feature lead on some pivotal components on their Fireworks CRM
-platform including quick search/advanced search, real time record de-duplication
-services, communications management, and release management.
+A dynamic full stack software professional available to make an
+immediate impact on any project or development team.
 
-Medical Pharmacies Group Limited 2003 - 2012
-Senior Software Developer
-As the Senior Software developer on staff, I was responsible for a small team
-delivering all of Medical Pharmacies in house software projects. We were
-consistently first to market on innovative pharmacy interaction tools.
+95 Picola ct Toronto, ON M2H 2N2 (416) 995-9404 colin@elusivelabs.com
 
-SKILLS
+github (https://github.com/colincode) linkedin
+(https://www.linkedin.com/in/colincode/)
+
+Summary
+
+Employment History
+
+TUCOWS INC Software Development Manager, Domains Engineering | 2018 -
+Current
+
+-   Lead cross functional development teams of 5 people
+-   Design & build pplication architecture
+-   Promote Engineering best practices
+-   Provide mentoring and coaching
+
+TUCOWS INC Team Lead, Domains Engineering | 2016 - 2018
+
+TUCOWS INC Senior Developer, Domains Engineering | 2015 - 2016
+
+Technology Stack:
+
+FIRE ENGINE RED Senior Software Developer | 2012 - 2015
+
+Fireworks CRM * Primary Search Engineer * Requirements gathering *
+Project Analysis * Coding * Implementation
+
+Technology Stack:
+
+MEDICAL PHARMACIES GROUP LTD Senior Software Developer | 2003 - 2012
+
+-   Lead small team (3)
+-   Application design & analysis
+-   Application Development
+-   System architeture
+-   First to market on innovative pharmacy interaction tools.
+
+Skills
+
 Design
-Object Oriented Analysis and Design, Object Oriented Design Patterns, Relational Database Design
+
+Object Oriented Analysis and Design, Object Oriented Design Patterns,
+Relational Database Design, Application Architecture
 
 Languages
-Javascript, Python, Perl, C/C++, Bash
 
-Libraries/Toolkits
-React, Flux, Django, Perl/Catalyst, Laravel, Zend Framework, JQuery, Bootstrap, Doctrine ORM, GTK
+Python, Javascript/Nodejs, Perl, C/C++, Bash
 
-Testing & Coverage
-Mocha, Chai, Sinon, Nose, Prove, Istanbul
+Microservices Kafka,
 
-Operating Systems		GNU/Linux (Debian/Ubuntu), FreeBSD, SCO UNIX
+Libraries/Frameworks
+
+React, Flux, Vuejs, Django, Flas, Express, Perl/Catalyst, Laravel, Zend
+Framework, JQuery, Bootstrap, Doctrine ORM, GTK
+
+Testing
+
+unittest, pytest, Mocha, Chai, Sinon, Nose, Prove, Istanbul
 
 Database
+
 PostgreSQL, MySQL, MongoDB
 
-Applications
-Apache, Nginx, ElasticSearch, Solr, Jenkins CI, Memcached, Vagrant
+Devops
+
+Docker, Jenkins, Apache, Nginx, kubernetes, nomad, consul, vault
 
 Project Management
+
 Git, JIRA, Bitbucket, Pivotal Tracker, Asana
 
+Education
 
-EDUCATION
-Education - Seneca College
-Computer Programming and Analysis Diploma
-Applications developer specialization Internet Specialist specialization
+Seneca College
 
+Computer Programming and Analysis Diploma Applications developer
+specialization Internet Specialist specialization
 
-PERSONAL LIFE
-Personal
-Captain of my “E” league championship hockey team
-Guitar player extraordinaire
+Interests
 
+Captain of my “E” league championship hockey team Guitar player
+extraordinaire
+
+References supplied on reqest.
