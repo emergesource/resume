@@ -8,6 +8,7 @@
 > in: [https://linkedin.com/in/colincode](https://www.linkedin.com/in/colincode/)
 > (416) 995-9404
 
+---
 
 
 ## Summary
