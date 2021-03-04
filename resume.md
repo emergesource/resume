@@ -1,11 +1,11 @@
 # Colin Campbell
 ## Engineering Lead
-### Toronto, CANADA
+<!-- ### Toronto, CANADA -->
 
 > [https://eluslivelabs.com/colin](https://elusivelabs.com/colin)
 > [colin@elusivelabs.com](mailto:colin@elusivelabs.com)
-> github [](https://github.com/colincode)
-> linkedin [](https://www.linkedin.com/in/colincode/)
+> gh: [https://github.com/ccmpb](https://github.com/ccmpb)
+> in: [https://linkedin.com/in/colincode](https://www.linkedin.com/in/colincode/)
 > (416) 995-9404
 
 

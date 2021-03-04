@@ -5,22 +5,31 @@
 
 .container:before,
 .container:after {
-  content: "";
-  display: table;
+    content: "";
+    display: table;
 }
 
 .container:after {
-  clear: both;
+    clear: both;
 }
 
 /* For IE 6/7 (trigger hasLayout) */
 .container {
-  zoom: 1;
+    zoom: 1;
 }
 
 body {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #1e1e1e;
-  margin: auto;
-  padding: 1em;
+    color: #1e1e1e;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin: auto;
+    padding: 1em;
+}
+
+h1 {
+    margin: 0;
+    padding: 0;
+}
+h2 {
+    margin: 0;
+    padding: 0 .1em;
 }
