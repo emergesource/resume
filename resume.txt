@@ -71,4 +71,4 @@ Contact
   -    https://github.com/ccmpb
   -    https://linkedin.com/in/colincode
 
-References supplied on reqest.
+References supplied on request.
