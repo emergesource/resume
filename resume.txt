@@ -4,7 +4,7 @@ Engineering Lead
 
 Toronto, CANADA
 
-Big CV:
+Resume:
 
 ------------------------------------------------------------------------
 
@@ -42,7 +42,7 @@ Skills:
 -   Programming, Architecture, Design
 -   CI/CD, Testing, Automation
 
-Technology:
+Technology
 
 -   Python, Javascript/nodejs, Perl, C
 -   Kafka, Redis, PostgreSQL, MySQL
@@ -59,7 +59,7 @@ Seneca College
 
 Interests:
 
--   Captain of my “E” league championship hockey team
+-   Captain of my “D” league championship hockey team
 -   Guitar player extraordinaire
 
 Contact

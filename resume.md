@@ -1,9 +1,10 @@
 # Colin Campbell
 ## Engineering Lead
-### Toronto, CANADA
+## Toronto, CANADA
+
 <br/>
 
-### Big CV:
+### Resume
 
 --- 
 
@@ -43,7 +44,8 @@ A dynamic full stack software professional available to make an immediate impact
 * Programming, Architecture, Design
 * CI/CD, Testing, Automation
 
-### Technology:
+**Technology**
+
 * Python, Javascript/nodejs, Perl, C
 * Kafka, Redis, PostgreSQL, MySQL
 * Hashistack
@@ -52,13 +54,17 @@ A dynamic full stack software professional available to make an immediate impact
 <br/>
 
 ### Education:
-#### Seneca College
+
+**Seneca College**
+
 * Computer Programming and Analysis Diploma
 * Applications Developer specialization 
 * Internet Specialist specialization
 
+<br/>
+
 ### Interests:
-* Captain of my “E” league championship hockey team
+* Captain of my “D” league championship hockey team
 * Guitar player extraordinaire
 
 
