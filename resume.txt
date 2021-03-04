@@ -124,7 +124,7 @@ Education
 Seneca College
 
 -   Computer Programming and Analysis Diploma
--   Applications developer specialization
+-   Applications Developer specialization
 -   Internet Specialist specialization
 
 ------------------------------------------------------------------------

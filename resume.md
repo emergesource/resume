@@ -111,7 +111,7 @@ A dynamic full stack software professional available to make an immediate impact
 ## Education
 ### Seneca College
 * Computer Programming and Analysis Diploma
-* Applications developer specialization 
+* Applications Developer specialization 
 * Internet Specialist specialization
 
 ---
