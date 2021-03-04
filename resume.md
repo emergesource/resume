@@ -21,7 +21,7 @@ A dynamic full stack software professional available to make an immediate impact
 **Manager Engineering, TUCOWS INC**  _// 2015 - present_
 
 * Lead cross functional development teams of 5 people
-* Design & build pplication architecture 
+* Design & build application architecture 
 * Promote Engineering best practices
 * Provide mentoring and coaching
 
@@ -44,22 +44,22 @@ A dynamic full stack software professional available to make an immediate impact
 ---
 
 ## Skills
-### Design
+#### Design
 * Object Oriented Analysis and Design
 * Object Oriented Design Patterns
 * Relational Database Design
 * Application Architecture
 
-### Languages
+#### Languages
 * Python
 * Javascript/Nodejs
 * Perl, 
 * C/C++
 
-### Microservices 
+#### Microservices 
 * Kafka
 
-### Libraries/Frameworks
+#### Libraries/Frameworks
 * React
 * Flux
 * Vuejs
@@ -74,7 +74,7 @@ A dynamic full stack software professional available to make an immediate impact
 * Doctrine ORM
 * GTK
 
-### Testing
+#### Testing
 * unittest
 * pytest
 * Mocha
@@ -84,12 +84,12 @@ A dynamic full stack software professional available to make an immediate impact
 * Prove
 * Istanbul
 
-### Database
+#### Database
 * PostgreSQL
 * MySQL
 * MongoDB
 
-### Devops
+#### Devops
 * Docker
 * Jenkins
 * Apache
@@ -99,7 +99,7 @@ A dynamic full stack software professional available to make an immediate impact
 * Consul
 * Vault
 
-### Project Management
+#### Project Management
 * Git
 * JIRA
 * Bitbucket
