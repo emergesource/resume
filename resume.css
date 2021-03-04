@@ -22,12 +22,8 @@ hr {
 }
 
 blockquote {
-    float: right;
     margin: 0;
-    position: absolute;
-    right: 1em;
-    top: 0;
-    top: 1em;
+    padding: 0;
 }
 
 blockquote ul {

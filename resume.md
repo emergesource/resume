@@ -1,22 +1,16 @@
 # Colin Campbell
 ## Engineering Lead
 ### Toronto, CANADA
+<br/>
 
-> * <i class="fas fa-desktop"></i> [https://eluslivelabs.com/colin](https://elusivelabs.com/colin)
-> * <i class="fas fa-envelope"></i> [colin@elusivelabs.com](mailto:colin@elusivelabs.com)
-> * <i class="fab fa-github"></i> [https://github.com/ccmpb](https://github.com/ccmpb)
-> * <i class="fab fa-linkedin-in"></i> [https://linkedin.com/in/colincode](https://www.linkedin.com/in/colincode/)
-<!-- > * <i class="fas fa-phone"></i> (416) 995-9404 -->
+### Big CV:
 
----
+--- 
 
-
-## Summary
 A dynamic full stack software professional available to make an immediate impact on any project or development team.
 
----
 
-## Employment History
+### Employment History:
 
 **Manager Engineering, TUCOWS INC**  _// 2015 - present_
 
@@ -41,83 +35,36 @@ A dynamic full stack software professional available to make an immediate impact
 * System architeture
 * First to market on innovative pharmacy interaction tools.
 
----
+### Skills:
+* Team Building, Leadership, Mentoring
+* Programming, Architecture, Design
+* CI/CD, Testing, Automation
 
-## Skills
-#### Design
-* Object Oriented Analysis and Design
-* Object Oriented Design Patterns
-* Relational Database Design
-* Application Architecture
+### Technology:
+* Python, Javascript/nodejs, Perl, C
+* Kafka, Redis, PostgreSQL, MySQL
+* Hashistack
+* React, Vuejs
 
-#### Languages
-* Python
-* Javascript/Nodejs
-* Perl, 
-* C/C++
-
-#### Microservices 
-* Kafka
-
-#### Libraries/Frameworks
-* React
-* Flux
-* Vuejs
-* Django
-* Flask
-* Express
-* Perl/Catalyst
-* Laravel
-* Zend Framework
-* JQuery
-* Bootstrap
-* Doctrine ORM
-* GTK
-
-#### Testing
-* unittest
-* pytest
-* Mocha
-* Chai
-* Sinon
-* Nose
-* Prove
-* Istanbul
-
-#### Database
-* PostgreSQL
-* MySQL
-* MongoDB
-
-#### Devops
-* Docker
-* Jenkins
-* Apache
-* Nginx
-* Kubernetes
-* Nomad
-* Consul
-* Vault
-
-#### Project Management
-* Git
-* JIRA
-* Bitbucket
-* Pivotal Tracker
-* Asana
-
----
-
-## Education
-### Seneca College
+### Education:
+#### Seneca College
 * Computer Programming and Analysis Diploma
 * Applications Developer specialization 
 * Internet Specialist specialization
 
----
-
-## Interests
+### Interests:
 * Captain of my “E” league championship hockey team
 * Guitar player extraordinaire
+
+
+### Contact
+
+---
+
+> * <i class="fas fa-desktop"></i> [https://eluslivelabs.com/colin](https://elusivelabs.com/colin)
+> * <i class="fas fa-envelope"></i> [colin@elusivelabs.com](mailto:colin@elusivelabs.com)
+> * <i class="fab fa-github"></i> [https://github.com/ccmpb](https://github.com/ccmpb)
+> * <i class="fab fa-linkedin-in"></i> [https://linkedin.com/in/colincode](https://www.linkedin.com/in/colincode/)
+
 
 References supplied on reqest.

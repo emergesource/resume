@@ -4,21 +4,14 @@ Engineering Lead
 
 Toronto, CANADA
 
-  -    https://eluslivelabs.com/colin
-  -    colin@elusivelabs.com
-  -    https://github.com/ccmpb
-  -    https://linkedin.com/in/colincode
+Big CV:
 
 ------------------------------------------------------------------------
-
-Summary
 
 A dynamic full stack software professional available to make an
 immediate impact on any project or development team.
 
-------------------------------------------------------------------------
-
-Employment History
+Employment History:
 
 Manager Engineering, TUCOWS INC // 2015 - present
 
@@ -43,83 +36,20 @@ Senior Software Developer, MEDICAL PHARMACIES GROUP LTD // 2003 - 2012
 -   System architeture
 -   First to market on innovative pharmacy interaction tools.
 
-------------------------------------------------------------------------
+Skills:
 
-Skills
+-   Team Building, Leadership, Mentoring
+-   Programming, Architecture, Design
+-   CI/CD, Testing, Automation
 
-Design
+Technology:
 
--   Object Oriented Analysis and Design
--   Object Oriented Design Patterns
--   Relational Database Design
--   Application Architecture
+-   Python, Javascript/nodejs, Perl, C
+-   Kafka, Redis, PostgreSQL, MySQL
+-   Hashistack
+-   React, Vuejs
 
-Languages
-
--   Python
--   Javascript/Nodejs
--   Perl,
--   C/C++
-
-Microservices
-
--   Kafka
-
-Libraries/Frameworks
-
--   React
--   Flux
--   Vuejs
--   Django
--   Flask
--   Express
--   Perl/Catalyst
--   Laravel
--   Zend Framework
--   JQuery
--   Bootstrap
--   Doctrine ORM
--   GTK
-
-Testing
-
--   unittest
--   pytest
--   Mocha
--   Chai
--   Sinon
--   Nose
--   Prove
--   Istanbul
-
-Database
-
--   PostgreSQL
--   MySQL
--   MongoDB
-
-Devops
-
--   Docker
--   Jenkins
--   Apache
--   Nginx
--   Kubernetes
--   Nomad
--   Consul
--   Vault
-
-Project Management
-
--   Git
--   JIRA
--   Bitbucket
--   Pivotal Tracker
--   Asana
-
-------------------------------------------------------------------------
-
-Education
+Education:
 
 Seneca College
 
@@ -127,11 +57,18 @@ Seneca College
 -   Applications Developer specialization
 -   Internet Specialist specialization
 
-------------------------------------------------------------------------
-
-Interests
+Interests:
 
 -   Captain of my “E” league championship hockey team
 -   Guitar player extraordinaire
+
+Contact
+
+------------------------------------------------------------------------
+
+  -    https://eluslivelabs.com/colin
+  -    colin@elusivelabs.com
+  -    https://github.com/ccmpb
+  -    https://linkedin.com/in/colincode
 
 References supplied on reqest.
