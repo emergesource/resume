@@ -1,4 +1,4 @@
-all: resume.html resume.pdf resume.txt
+all: resume.html resume.pdf resume.txt resume.css
 
 resume.html: resume.md resume.css
 	pandoc --standalone -c resume.css --from markdown --to html -o resume.html resume.md
