@@ -15,6 +15,12 @@ h1, h2, h3 {
     padding: 0;
 }
 
+hr {
+    border: 0;
+    border-bottom: 1px dashed #ccc;
+	background: #999;
+}
+
 blockquote {
     float: right;
     margin: 0;

@@ -23,7 +23,7 @@ Employment History
 Manager Engineering, TUCOWS INC // 2015 - present
 
 -   Lead cross functional development teams of 5 people
--   Design & build pplication architecture
+-   Design & build application architecture
 -   Promote Engineering best practices
 -   Provide mentoring and coaching
 
