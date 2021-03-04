@@ -55,7 +55,7 @@ A dynamic full stack software professional available to make an immediate impact
 
 ### Education:
 
-**Seneca College of Applied Arts and Technology**
+**Seneca College of Applied Arts and Technology** _// 1999 - 2002 _
 
 * Computer Programming and Analysis Diploma
 * Applications Developer specialization 
