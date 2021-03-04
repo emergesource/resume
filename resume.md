@@ -67,6 +67,7 @@ A dynamic full stack software professional available to make an immediate impact
 * Captain of my “D” league championship hockey team
 * Guitar player extraordinaire
 
+<br/>
 
 ### Contact
 
