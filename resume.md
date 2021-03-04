@@ -3,43 +3,30 @@
 > [https://eluslivelabs.com/colin](https://elusivelabs.com/colin)
 > [colin@elusivelabs.com](mailto:colin@elusivelabs.com)
 > (416) 995-9404
-
 ### Toronto, CANADA
 
 A dynamic full stack software professional available to make an immediate impact on any project or development team.
-
-95 Picola ct
-Toronto, ON M2H 2N2
-(416) 995-9404
-colin@elusivelabs.com
 
 github (https://github.com/colincode)
 linkedin (https://www.linkedin.com/in/colincode/)
 
 ## Summary
 
-
-
 ## Employment History
 
-TUCOWS INC 
-Software Development Manager, Domains Engineering | 2018 - Current
+**Manager Engineering, TUCOWS INC**  2018 - Current
 
 * Lead cross functional development teams of 5 people
 * Design & build pplication architecture 
 * Promote Engineering best practices
 * Provide mentoring and coaching
 
-TUCOWS INC 
-Team Lead, Domains Engineering | 2016 - 2018
+**Team Lead, TUCOWS INC** 2016 - 2018
 
 TUCOWS INC
-Senior Developer, Domains Engineering | 2015 - 2016
+**Senior Developer, TUCOWS INC** 2015 - 2016
 
-Technology Stack:
-
-FIRE ENGINE RED
-Senior Software Developer | 2012 - 2015
+**Senior Software Developer, FIRE ENGINE RED** 2012 - 2015
 
 Fireworks CRM
 * Primary Search Engineer
@@ -50,8 +37,7 @@ Fireworks CRM
 
 Technology Stack:
 
-MEDICAL PHARMACIES GROUP LTD
-Senior Software Developer | 2003 - 2012
+**Senior Software Developer, MEDICAL PHARMACIES GROUP LTD** 2003 - 2012
 
 * Lead small team (3)
 * Application design & analysis
