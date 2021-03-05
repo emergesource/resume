@@ -19,9 +19,10 @@ A dynamic full stack software professional available to make an immediate impact
 * Lead cross functional development teams of 5 people
 * Design & build application architecture 
 * Promote Engineering best practices
-* Provide mentoring and coaching
+* Contributed to OpenSRS Domain Platform shim to allowing Tucows to ingest 1.5
+    million domains from MelbourneIT acquisition
 * Collaborated with Automattic/Wordpress team on OpenSRS Domains Platform integration,
-    allowing Tucows to acquire wordpress.com & .blog domain registrations from GoDaddy  
+    allowing Tucows to acquire wordpress.com domain registrations from GoDaddy  
 
 **Senior Software Developer, FIRE ENGINE RED** _// 2012 - 2015_
 
