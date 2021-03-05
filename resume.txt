@@ -18,6 +18,12 @@ Engineering Manager, TUCOWS // 2015 - present
 -   Lead cross functional development teams of 5 people
 -   Design & build application architecture
 -   Promote Engineering best practices
+-   Barndoor
+-   Shared Services
+-   Hover
+-   Hoofprint
+-   Whois publicity
+-   GDPR
 -   Influenced internal process changes to ci/cd pipelines that are now
     widely accepted across the entire company
 -   Provided improvements to aging solr implementation
