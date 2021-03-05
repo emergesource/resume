@@ -18,10 +18,14 @@ Engineering Manager, TUCOWS // 2015 - present
 -   Lead cross functional development teams of 5 people
 -   Design & build application architecture
 -   Promote Engineering best practices
+-   Provided improvements to aging solr implementation
+-   Lead a team through the design and development of a domain enduser
+    admin application that showcased a new to Tucows frontend stack
+    featuring React & Flux
 -   Contributed to OpenSRS Domain Platform shim that allowed Tucows to
     ingest 1.5 million domains from MelbourneIT acquisition
 -   Collaborated with Automattic/Wordpress team on OpenSRS Domains
-    Platform integration, that alled Tucows to acquire wordpress.com
+    Platform integration, that led to Tucows to acquire wordpress.com
     domain registrations from GoDaddy
 
 Senior Software Developer, FIRE ENGINE RED // 2012 - 2015

@@ -19,8 +19,10 @@ A dynamic full stack software professional available to make an immediate impact
 * Lead cross functional development teams of 5 people
 * Design & build application architecture 
 * Promote Engineering best practices
+* Influenced internal process changes to ci/cd flow pipelines that are now
+    widely accepted across the company
 * Provided improvements to aging solr implementation
-* Lead a team through the design and development of domain enduser admin
+* Lead a team through the design and development of a domain enduser admin
     application that showcased a new to Tucows frontend stack featuring React & Flux
 * Contributed to OpenSRS Domain Platform shim that allowed Tucows to ingest 1.5
     million domains from MelbourneIT acquisition
