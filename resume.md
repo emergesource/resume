@@ -34,7 +34,7 @@ A dynamic full stack software professional available to make an immediate impact
 * Lead small team (3)
 * Application design & analysis
 * Application Development
-* System architeture
+* System architecture
 * First to market on innovative pharmacy interaction tools.
 
 <br/>
