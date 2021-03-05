@@ -13,7 +13,7 @@ immediate impact on any project or development team.
 
 Employment History:
 
-Manager Engineering, TUCOWS // 2015 - present
+Engineering Manager, TUCOWS // 2015 - present
 
 -   Lead cross functional development teams of 5 people
 -   Design & build application architecture
@@ -34,7 +34,7 @@ Senior Software Developer, MEDICAL PHARMACIES // 2003 - 2012
 -   Application design & analysis
 -   Application Development
 -   System architecture
--   First to market on innovative pharmacy interaction tools.
+-   First to market on innovative mobile pharmacy interaction tools
 
 Skills:
 

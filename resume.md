@@ -14,7 +14,7 @@ A dynamic full stack software professional available to make an immediate impact
 
 ### Employment History:
 
-**Manager Engineering, TUCOWS**  _// 2015 - present_
+**Engineering Manager, TUCOWS**  _// 2015 - present_
 
 * Lead cross functional development teams of 5 people
 * Design & build application architecture 
@@ -35,7 +35,7 @@ A dynamic full stack software professional available to make an immediate impact
 * Application design & analysis
 * Application Development
 * System architecture
-* First to market on innovative pharmacy interaction tools.
+* First to market on innovative mobile pharmacy interaction tools
 
 <br/>
 
