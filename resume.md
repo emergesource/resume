@@ -14,7 +14,7 @@ A dynamic full stack software professional available to make an immediate impact
 
 ### Employment History:
 
-**Manager Engineering, TUCOWS INC**  _// 2015 - present_
+**Manager Engineering, TUCOWS**  _// 2015 - present_
 
 * Lead cross functional development teams of 5 people
 * Design & build application architecture 
@@ -29,7 +29,7 @@ A dynamic full stack software professional available to make an immediate impact
 * Coding 
 * Implementation
 
-**Senior Software Developer, MEDICAL PHARMACIES GROUP LTD** _// 2003 - 2012_
+**Senior Software Developer, MEDICAL PHARMACIES** _// 2003 - 2012_
 
 * Lead small team (3)
 * Application design & analysis
