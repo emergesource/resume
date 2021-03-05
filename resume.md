@@ -20,9 +20,13 @@ A dynamic full stack software professional available to make an immediate impact
 * Design & build application architecture 
 * Promote Engineering best practices
 * Provide mentoring and coaching
+* Collaborated with Automattic/Wordpress team on OpenSRS Domains Platform integration,
+    allowing Tucows to acquire wordpress.com & .blog domain registrations from GoDaddy  
 
 **Senior Software Developer, FIRE ENGINE RED** _// 2012 - 2015_
 
+* Trusted individual contributor on engineering team committed to keeping America's
+    colleges and universities stocked with fresh minds
 * Implemented admission and alumni search solution to flagship CRM product,
     leveraging apache solr to deliver instant search results on multiple user data
     points for (near) real time decision making 
