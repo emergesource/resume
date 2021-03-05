@@ -19,7 +19,7 @@ A dynamic full stack software professional available to make an immediate impact
 * Lead cross functional development teams of 5 people
 * Design & build application architecture 
 * Promote Engineering best practices
-* Influenced internal process changes to ci/cd flow pipelines that are now
+* Influenced internal process changes to ci/cd pipelines that are now
     widely accepted across the company
 * Provided improvements to aging solr implementation
 * Lead a team through the design and development of a domain enduser admin
