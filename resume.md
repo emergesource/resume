@@ -90,5 +90,6 @@ A dynamic full stack software professional available to make an immediate impact
 > * <i class="fab fa-github"></i> [https://github.com/ccmpb](https://github.com/ccmpb)
 > * <i class="fab fa-linkedin-in"></i> [https://linkedin.com/in/colincode](https://www.linkedin.com/in/colincode/)
 
+<br/>
 
 References supplied on request.
