@@ -19,7 +19,7 @@ Engineering Manager, TUCOWS // 2015 - present
 -   Design & build application architecture
 -   Promote Engineering best practices
 -   Influenced internal process changes to ci/cd pipelines that are now
-    widely accepted across the company
+    widely accepted across the entire company
 -   Provided improvements to aging solr implementation
 -   Lead a team through the design and development of a domain enduser
     admin application that showcased a new to Tucows frontend stack
