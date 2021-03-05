@@ -23,7 +23,7 @@ Engineering Manager, TUCOWS // 2015 - present
 Senior Software Developer, FIRE ENGINE RED // 2012 - 2015
 
 -   Implemented admission and alumni search solution to flagship CRM
-    product, leveraging apache solr to grant instant search results on
+    product, leveraging apache solr to deliver instant search results on
     multiple user data points for (near) real time decision making
 -   Provided guidance and leadership on testing & refactoring of legacy
     codebase
