@@ -23,11 +23,10 @@ A dynamic full stack software professional available to make an immediate impact
 
 **Senior Software Developer, FIRE ENGINE RED** _// 2012 - 2015_
 
-* Primary Search Engineer
-* Requirements gathering 
-* Project Analysis
-* Coding 
-* Implementation
+* Implemented admission and alumni search solution to flagship CRM product,
+    leveraging apache solr to grant instant search results on multiple user data
+    points for (near) real time decision making 
+* Provided guidance and leadership on testing & refactoring of legacy codebase
 
 **Senior Software Developer, MEDICAL PHARMACIES** _// 2003 - 2012_
 
