@@ -31,7 +31,7 @@ A dynamic full stack software professional available to make an immediate impact
 
 **Senior Software Developer, MEDICAL PHARMACIES** _// 2003 - 2012_
 
-* Technical Lead on a small team of engineers (3) dedicated to improving patient
+* Technical Lead on a small team of engineers(3) dedicated to improving patient
     outcomes
 * First to market on innovative mobile pharmacy interaction tools
 * Delivered a patient aware drug inventory system servicing thousands of beds that 
