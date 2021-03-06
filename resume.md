@@ -24,9 +24,9 @@ A dynamic full stack software professional available to make an immediate impact
 * Shared Services
 * Hover
 * Hoofprint
-* Launched __whois publicity__ feature to domains platform to proactively mitigate
-    any lost __whois privacy__ revenue caused GDPR
-* Delivered key frontend components for GDPR readiness including tieredaccess.com
+* Launched _whois publicity_ feature to domains platform to proactively mitigate
+    any lost _whois privacy_ revenue caused by GDPR fallout
+* Delivered key frontend components for GDPR readtiness including tieredaccess.com
     and RDAP admin tool
 * Influenced internal process changes to ci/cd pipelines that are now
     widely accepted across the entire company
