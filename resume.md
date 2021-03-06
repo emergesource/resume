@@ -20,21 +20,23 @@ A dynamic full stack software professional available to make an immediate impact
 * Design & build application architecture 
 * Promote Engineering best practices
 * Barndoor
+* infrastructure
 * Shared Services
 * Hover
 * Hoofprint
-* Whois publicity
-* GDPR
+* whois publicity
+* Delivered key frontend components of GDPR readiness including tieredaccess.com
+    and RDAP admin tool
 * Influenced internal process changes to ci/cd pipelines that are now
     widely accepted across the entire company
 * Provided improvements to aging solr implementation
 * Lead a team through the design and development of a domain admin
-    application that showcased a new to frontend stack featuring React/Flux, 
+    application that showcased a new frontend stack featuring React/Flux, 
     which later evolved to vuejs/vuext and is now the basis for modern UI work at Tucows
 * Contributed to OpenSRS Domain Platform shim that allowed Tucows to ingest 1.5
     million domains from MelbourneIT acquisition
-* Collaborated with Automattic/Wordpress team on OpenSRS Domains Platform integration,
-    that led to Tucows to acquire wordpress.com domain registrations from GoDaddy  
+* Collaborated with Automattic/Wordpress team on an OpenSRS Domains Platform integration
+    that led Tucows to acquire wordpress.com domain registrations from GoDaddy  
 
 **Senior Software Developer, FIRE ENGINE RED** _// 2012 - 2015_
 
