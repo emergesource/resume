@@ -23,7 +23,11 @@ A dynamic full stack software professional available to make an immediate impact
 * infrastructure
 * Shared Services
 * Hover
-* Hoofprint
+* Champion of common infrastructure project that aims to provide simple and reusable
+    infrastructure as code solutions to common problems with terraform and salt 
+* Lead on project Hoofprint (think blueprint) which layed the groundwork for the 
+    widespread adoption of distributed miroservice architecture and
+    infrastructure as code at Tucows
 * Launched _Whois Publicity_ feature on domains platform to proactively mitigate
     any lost revenue caused by GDPR rule changes to _Whois Privacy_
 * Delivered key frontend components for GDPR readtiness including tieredaccess.com

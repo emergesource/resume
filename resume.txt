@@ -23,8 +23,9 @@ Engineering Manager, TUCOWS // 2015 - present
 -   Shared Services
 -   Hover
 -   Hoofprint
--   Launched whois publicity feature to domains platform to proactively
-    mitigate any lost whois privacy revenue caused by GDPR fallout
+-   Launched Whois Publicity feature on domains platform to proactively
+    mitigate any lost revenue caused by GDPR rule changes to Whois
+    Privacy
 -   Delivered key frontend components for GDPR readtiness including
     tieredaccess.com and RDAP admin tool
 -   Influenced internal process changes to ci/cd pipelines that are now
