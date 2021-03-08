@@ -27,7 +27,7 @@ A dynamic full stack software professional available to make an immediate impact
     teams  simple and reusable infrastructure as code solutions to 
     common problems with terraform and salt 
 * Lead on _Project Hoofprint_ (blueprint) which laid the groundwork for the 
-    widespread adoption of distributed miroservice architecture & infrastructure 
+    widespread adoption of distributed miroservice architecture 
     at Tucows across all lines of business
 * Launched _Whois Publicity_ feature on domains platform to proactively mitigate
     any lost revenue caused by GDPR rule changes to _Whois Privacy_
