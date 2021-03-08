@@ -23,8 +23,9 @@ A dynamic full stack software professional available to make an immediate impact
 * infrastructure
 * Shared Services
 * Hover
-* Champion of _common infrastructure_ project that aims to provide simple and reusable
-    infrastructure as code solutions to common problems with terraform and salt 
+* Champion of _common infrastructure_ project that provides Tucows engineering
+    teams  simple and reusable infrastructure as code solutions to 
+    common problems with terraform and salt 
 * Lead on _Project Hoofprint_ (blueprint) which laid the groundwork for the 
     widespread adoption of distributed miroservice architecture & infrastructure 
     at Tucows across all lines of business
