@@ -17,12 +17,14 @@ A dynamic full stack software professional available to make an immediate impact
 **Engineering Manager, TUCOWS**  _// 2015 - present_
 
 * Lead cross functional development teams of 5 people
+* Engineering  Manager of 2 cross functional teams , and Hover (hover.com) for a
+    total 8 direct reports
 * Design & build application architecture 
 * Promote Engineering best practices
-* Barndoor
+* Shipped _Barndoor_ api gateway that manages ingress and distributes it to the
+    internal microservices 
 * infrastructure
 * Shared Services
-* Hover
 * Champion of _common infrastructure_ project that provides Tucows engineering
     teams with simple and reusable infrastructure as code solutions to 
     common architecture problems with terraform and salt 
@@ -73,10 +75,10 @@ A dynamic full stack software professional available to make an immediate impact
 
 **Technology**
 
-* Python, Javascript/nodejs, Perl, C
-* Kafka, Redis, PostgreSQL, MySQL
-* Hashistack
+* Python, Javascript, Perl, PHP, C
 * React, Vuejs
+* Kafka, Redis, PostgreSQL, MySQL
+* Docker, Nomad, Consul, Vault 
 
 <br/>
 
@@ -93,6 +95,7 @@ A dynamic full stack software professional available to make an immediate impact
 ### Interests:
 * Captain of my “D” league championship hockey team
 * Guitar player extraordinaire
+* Lifelong vimrc tinkerer
 
 <br/>
 

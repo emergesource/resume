@@ -16,13 +16,20 @@ Employment History:
 Engineering Manager, TUCOWS // 2015 - present
 
 -   Lead cross functional development teams of 5 people
+-   Engineering Manager of 2 cross functional teams , and Hover
+    (hover.com) for a total 8 direct reports
 -   Design & build application architecture
 -   Promote Engineering best practices
--   Barndoor
+-   Shipped Barndoor api gateway that manages ingress and distributes to
+    the appropriate internal systems
 -   infrastructure
 -   Shared Services
--   Hover
--   Hoofprint
+-   Champion of common infrastructure project that provides Tucows
+    engineering teams with simple and reusable infrastructure as code
+    solutions to common architecture problems with terraform and salt
+-   Lead on Project Hoofprint (blueprint) which laid the groundwork for
+    the widespread adoption of distributed miroservice architecture at
+    Tucows across all lines of business
 -   Launched Whois Publicity feature on domains platform to proactively
     mitigate any lost revenue caused by GDPR rule changes to Whois
     Privacy
@@ -71,10 +78,10 @@ Skills:
 
 Technology
 
--   Python, Javascript/nodejs, Perl, C
--   Kafka, Redis, PostgreSQL, MySQL
--   Hashistack
+-   Python, Javascript, Perl, PHP, C
 -   React, Vuejs
+-   Kafka, Redis, PostgreSQL, MySQL
+-   Docker, Nomad, Consul, Vault
 
 Education:
 
@@ -88,6 +95,7 @@ Interests:
 
 -   Captain of my “D” league championship hockey team
 -   Guitar player extraordinaire
+-   Lifelong vimrc tinkerer
 
 Contact
 
