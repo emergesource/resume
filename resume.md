@@ -16,55 +16,53 @@ A dynamic full stack software professional available to make an immediate impact
 
 **Engineering Manager, TUCOWS**  _// 2015 - present_
 
-* Lead cross functional development teams of 5 people
-* Engineering  Manager of 2 cross functional teams , and Hover (hover.com) for a
-    total 8 direct reports
+* Caring leader of 2 Lead cross functional engineering teams with a total or 8
+    direct reports
 * Design & build application architecture 
 * Promote Engineering best practices
-* Shipped _Barndoor_ api gateway that manages ingress and distributes it to the
-    internal microservices 
-* infrastructure
-* Shared Services
+* Remootify
+* Shipped _Barndoor_, an api gateway implementation that manages ingress and distributes it to 
+    internal microservices.
 * Champion of _common infrastructure_ project that provides Tucows engineering
     teams with simple and reusable infrastructure as code solutions to 
-    common architecture problems with terraform and salt 
+    common architecture problems with terraform and salt.
 * Lead on _Project Hoofprint_ (blueprint) which laid the groundwork for the 
     widespread adoption of distributed miroservice architecture 
-    at Tucows across all lines of business
+    at Tucows across all lines of business.
 * Launched _Whois Publicity_ feature on domains platform to proactively mitigate
-    any lost revenue caused by GDPR rule changes to _Whois Privacy_
+    any lost revenue caused by GDPR rule changes to _Whois Privacy_.
 * Delivered key frontend components for GDPR readtiness including tieredaccess.com
-    and RDAP admin tool
+    and RDAP admin tool.
 * Influenced internal process changes to ci/cd pipelines that are now
-    widely accepted across the entire company
-* Provided improvements to aging solr implementation
-* Lead a team through the design and development of a domain admin
+    widely accepted across the entire company.
+* Provided improvements to aging solr implementation.
+* Lead a team through the design and development of a domain admin.
     application that showcased a new frontend stack featuring React/Flux, 
-    which later evolved to vuejs/vuext and is now the basis for modern UI work at Tucows
+    which later evolved to vuejs/vuext and is now the basis for modern UI work at Tucows.
 * Contributed to OpenSRS Domain Platform shim that allowed Tucows to ingest 1.5
-    million domains from MelbourneIT acquisition
+    million domains from MelbourneIT acquisition.
 * Collaborated with Automattic/Wordpress team on an OpenSRS Domains Platform integration
-    that led Tucows to acquire wordpress.com domain registrations from GoDaddy  
+    that led Tucows to acquire wordpress.com domain registrations from GoDaddy.
 
 **Senior Software Developer, FIRE ENGINE RED** _// 2012 - 2015_
 
 * Trusted individual contributor on engineering team committed to keeping America's
-    colleges and universities stocked with fresh minds
+    colleges and universities stocked with fresh minds.
 * Implemented admission and alumni search solution to flagship CRM product,
     leveraging apache solr to deliver instant search results on multiple user data
-    points for (near) real time decision making 
-* Provided guidance and leadership on testing & refactoring of legacy codebase
+    points for (near) real time decision making. 
+* Provided guidance and leadership on testing & refactoring of legacy codebase.
 
 **Senior Software Developer, MEDICAL PHARMACIES** _// 2003 - 2012_
 
 * Technical Lead on a small team of engineers(3) dedicated to improving patient
-    outcomes
-* First to market on innovative mobile pharmacy interaction tools
+    outcomes.
+* First to market on innovative mobile pharmacy interaction tools.
 * Delivered a patient aware drug inventory system servicing thousands of beds that 
-    drastically reduced medication errors and pharmacy waste
+    drastically reduced medication errors and pharmacy waste.
 * Implemented a highly available data warehouse solution across 30+ retail
     locations,  providing the organization with much needed business and patient
-    care insights
+    care insights.
 
 <br/>
 
@@ -76,9 +74,10 @@ A dynamic full stack software professional available to make an immediate impact
 **Technology**
 
 * Python, Javascript, Perl, PHP, C
-* React, Vuejs
+* React + Flux, Vuejs + Vuext
 * Kafka, Redis, PostgreSQL, MySQL
-* Docker, Nomad, Consul, Vault 
+* Docker, Nomad, Consul, Vault, Kubernetes
+* Elasticsearch, Kibana, Fluentd, Prometheus, Grafana
 
 <br/>
 
@@ -87,7 +86,7 @@ A dynamic full stack software professional available to make an immediate impact
 **Seneca College of Applied Arts and Technology** _// 1999 - 2002 _
 
 * Computer Programming and Analysis Diploma
-* Applications Developer specialization 
+* Applications Developer specialization
 * Internet Specialist specialization
 
 <br/>
