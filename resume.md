@@ -9,6 +9,8 @@
 --- 
 
 A dynamic full stack software professional available to make an immediate impact on any project or development team.
+* Design & build application architecture 
+* Promote Engineering best practices
 
 <br/>
 
@@ -18,11 +20,10 @@ A dynamic full stack software professional available to make an immediate impact
 
 * Caring leader of 2 Lead cross functional engineering teams with a total or 8
     direct reports
-* Design & build application architecture 
-* Promote Engineering best practices
-* Remootify
-* Shipped _Barndoor_, an api gateway implementation that manages ingress and distributes it to 
-    internal microservices.
+* Managed design & development team for _Remootify_, an event scheduling
+    service, that is successfully being used by _Hover_ and _Ting Mobile_.
+* Shipped _Barndoor_, an api gateway implementation for _Tucows/Dish_
+    collaboration that manages ingress and distributes it to internal microservices.
 * Champion of _common infrastructure_ project that provides Tucows engineering
     teams with simple and reusable infrastructure as code solutions to 
     common architecture problems with terraform and salt.
@@ -31,12 +32,12 @@ A dynamic full stack software professional available to make an immediate impact
     at Tucows across all lines of business.
 * Launched _Whois Publicity_ feature on domains platform to proactively mitigate
     any lost revenue caused by GDPR rule changes to _Whois Privacy_.
-* Delivered key frontend components for GDPR readtiness including tieredaccess.com
+* Delivered key frontend components for GDPR readiness including tieredaccess.com
     and RDAP admin tool.
 * Influenced internal process changes to ci/cd pipelines that are now
     widely accepted across the entire company.
 * Provided improvements to aging solr implementation.
-* Lead a team through the design and development of a domain admin.
+* Lead a team through the design and development of a domain admin
     application that showcased a new frontend stack featuring React/Flux, 
     which later evolved to vuejs/vuext and is now the basis for modern UI work at Tucows.
 * Contributed to OpenSRS Domain Platform shim that allowed Tucows to ingest 1.5
