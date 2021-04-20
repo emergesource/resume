@@ -20,7 +20,7 @@ A dynamic full stack software professional available to make an immediate impact
 * Dedicated leader of 2 cross functional engineering teams with a total or 8
     direct reports
 * Managed design & development team for _Remootify_, an event scheduling
-    service, that is successfully being used by key Tucows lines of business
+    service that is successfully being used by key Tucows lines of business
     such as _Hover_ and _Ting Mobile_.
 * Shipped _Barndoor_, an api gateway implementation for _Tucows/Dish_
     collaboration that manages ingress and distributes it to internal microservices.
