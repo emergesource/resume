@@ -7,9 +7,6 @@
 --- 
 
 A dynamic full stack software professional available to make an immediate impact on any project or development team.
-* Design & build application architecture 
-* Promote Engineering best practices
-
 
 ### Employment History:
 
