@@ -13,7 +13,7 @@ A dynamic full stack software professional available to make an immediate impact
 
 ### Employment History:
 
-#### **Engineering Manager, TUCOWS**  _// 2015 - present_
+#### Engineering Manager, TUCOWS  _// 2015 - present_
 
 * Dedicated leader of 2 cross functional engineering teams with a total of 8
     direct reports.
@@ -43,7 +43,7 @@ A dynamic full stack software professional available to make an immediate impact
 * Collaborated with Automattic/Wordpress team on an OpenSRS Domains Platform integration
     that led Tucows to acquire wordpress.com domain registrations from GoDaddy.
 
-**Senior Software Developer, FIRE ENGINE RED** _// 2012 - 2015_
+#### Senior Software Developer, FIRE ENGINE RED _// 2012 - 2015_
 
 * Trusted individual contributor on engineering team committed to keeping America's
     colleges and universities stocked with fresh minds.
@@ -52,7 +52,7 @@ A dynamic full stack software professional available to make an immediate impact
     points for (near) real time decision making. 
 * Provided guidance and leadership on testing & refactoring of legacy codebase.
 
-**Senior Software Developer, MEDICAL PHARMACIES** _// 2003 - 2012_
+#### Senior Software Developer, MEDICAL PHARMACIES _// 2003 - 2012_
 
 * Technical Lead on a small team of engineers(3) dedicated to improving patient
     outcomes.
@@ -69,7 +69,6 @@ A dynamic full stack software professional available to make an immediate impact
 * CI/CD, Testing, Automation
 
 #### Technology
-
 * Python, Javascript, Perl, PHP, C
 * React + Flux, Vuejs + Vuext
 * Kafka, Redis, PostgreSQL, MySQL
@@ -79,7 +78,6 @@ A dynamic full stack software professional available to make an immediate impact
 ### Education:
 
 #### Seneca College of Applied Arts and Technology _// 1999 - 2002_
-
 * Computer Programming and Analysis Diploma
 * Applications Developer specialization
 * Internet Specialist specialization
