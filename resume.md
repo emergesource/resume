@@ -15,7 +15,7 @@ A dynamic full stack software professional available to make an immediate impact
 
 ### Employment History:
 
-**Engineering Manager, TUCOWS**  _// 2015 - present_
+#### **Engineering Manager, TUCOWS**  _// 2015 - present_
 
 * Dedicated leader of 2 cross functional engineering teams with a total or 8
     direct reports
@@ -72,7 +72,7 @@ A dynamic full stack software professional available to make an immediate impact
 * Programming, Architecture, Design
 * CI/CD, Testing, Automation
 
-**Technology**
+#### Technology
 
 * Python, Javascript, Perl, PHP, C
 * React + Flux, Vuejs + Vuext
@@ -84,15 +84,13 @@ A dynamic full stack software professional available to make an immediate impact
 
 ### Education:
 
-**Seneca College of Applied Arts and Technology** _// 1999 - 2002 _
+#### Seneca College of Applied Arts and Technology _// 1999 - 2002_
 
 * Computer Programming and Analysis Diploma
 * Applications Developer specialization
 * Internet Specialist specialization
 
-<br/>
-
-### Interests:
+#### Interests:
 * Captain of my “D” league championship hockey team
 * Guitar player extraordinaire
 * Lifelong vimrc tinkerer

@@ -19,7 +19,7 @@ Engineering Manager, TUCOWS // 2015 - present
 -   Dedicated leader of 2 cross functional engineering teams with a
     total or 8 direct reports
 -   Managed design & development team for Remootify, an event scheduling
-    service, that is successfully being used by key Tucows lines of
+    service that is successfully being used by key Tucows lines of
     business such as Hover and Ting Mobile.
 -   Shipped Barndoor, an api gateway implementation for Tucows/Dish
     collaboration that manages ingress and distributes it to internal
