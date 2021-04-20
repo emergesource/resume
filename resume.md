@@ -17,8 +17,8 @@ A dynamic full stack software professional available to make an immediate impact
 
 #### **Engineering Manager, TUCOWS**  _// 2015 - present_
 
-* Dedicated leader of 2 cross functional engineering teams with a total or 8
-    direct reports
+* Dedicated leader of 2 cross functional engineering teams with a total of 8
+    direct reports.
 * Managed design & development team for _Remootify_, an event scheduling
     service that is successfully being used by key Tucows lines of business
     such as _Hover_ and _Ting Mobile_.
