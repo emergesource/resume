@@ -65,8 +65,6 @@ A dynamic full stack software professional available to make an immediate impact
     locations,  providing the organization with much needed business and patient
     care insights.
 
-<br/>
-
 ### Notable Skills:
 * Team Building, Leadership, Mentoring
 * Programming, Architecture, Design
@@ -80,8 +78,6 @@ A dynamic full stack software professional available to make an immediate impact
 * Docker, Nomad, Consul, Vault, Kubernetes
 * Elasticsearch, Kibana, Fluentd, Prometheus, Grafana
 
-<br/>
-
 ### Education:
 
 #### Seneca College of Applied Arts and Technology _// 1999 - 2002_
@@ -94,8 +90,6 @@ A dynamic full stack software professional available to make an immediate impact
 * Captain of my “D” league championship hockey team
 * Guitar player extraordinaire
 * Lifelong vimrc tinkerer
-
-<br/>
 
 ### Contact
 
