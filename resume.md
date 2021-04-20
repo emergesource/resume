@@ -2,8 +2,6 @@
 ## Engineering Lead
 ## Toronto, CANADA
 
-<br/>
-
 ### Resume
 
 --- 
