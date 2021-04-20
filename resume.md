@@ -12,13 +12,12 @@ A dynamic full stack software professional available to make an immediate impact
 * Design & build application architecture 
 * Promote Engineering best practices
 
-<br/>
 
 ### Employment History:
 
 **Engineering Manager, TUCOWS**  _// 2015 - present_
 
-* Caring leader of 2 Lead cross functional engineering teams with a total or 8
+* Dedicated leader of 2 cross functional engineering teams with a total or 8
     direct reports
 * Managed design & development team for _Remootify_, an event scheduling
     service, that is successfully being used by key Tucows lines of business
@@ -68,7 +67,7 @@ A dynamic full stack software professional available to make an immediate impact
 
 <br/>
 
-### Skills:
+### Notable Skills:
 * Team Building, Leadership, Mentoring
 * Programming, Architecture, Design
 * CI/CD, Testing, Automation

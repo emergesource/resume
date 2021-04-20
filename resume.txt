@@ -16,7 +16,7 @@ Employment History:
 
 Engineering Manager, TUCOWS // 2015 - present
 
--   Caring leader of 2 Lead cross functional engineering teams with a
+-   Dedicated leader of 2 cross functional engineering teams with a
     total or 8 direct reports
 -   Managed design & development team for Remootify, an event scheduling
     service, that is successfully being used by key Tucows lines of
@@ -71,7 +71,7 @@ Senior Software Developer, MEDICAL PHARMACIES // 2003 - 2012
     retail locations, providing the organization with much needed
     business and patient care insights.
 
-Skills:
+Notable Skills:
 
 -   Team Building, Leadership, Mentoring
 -   Programming, Architecture, Design
