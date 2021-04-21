@@ -10,8 +10,8 @@ A dynamic software professional available to make an immediate impact on any
 engineering team.  I am dedicated to delivering high functioning autonomous 
 engineering teams that ship to the critical path.  I provide a safe environment 
 that simultaneously fosters professional growth while landing high impact 
-milestones for the organization. You can expect the team members I work for to 
-report high employee satisfaction and lower golf scores!
+milestones for the organization. You can expect the team members that I work for 
+to report higher employee satisfaction and lower golf scores!
 
 ### Employment History:
 
