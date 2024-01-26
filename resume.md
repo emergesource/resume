@@ -10,13 +10,12 @@ A dynamic software professional available to make an immediate impact on any
 engineering team.  I am dedicated to delivering high functioning autonomous 
 engineering teams that ship to the critical path.  I provide a safe environment 
 that simultaneously fosters professional growth while landing high impact 
-milestones for the organization. You can expect the team members that I work for 
-to report higher employee satisfaction and lower golf scores!
+milestones for the organization. 
 
 ### Employment History:
-
-#### Engineering Manager, TUCOWS  _// 2015 - present_
-
+#### Director Engineering, TUCOWS/Wavelo _//2020-_
+#### Manager Engineering, TUCOWS/Domains  _// 2017-2020_
+#### Senior Engineer, Tucows Domains _// 2015-2017_
 * Dedicated leader of 2 cross functional engineering teams with a total of 8
     direct reports.
 * Managed design & development team for _Remootify_, an event scheduling
