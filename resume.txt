@@ -24,7 +24,7 @@ your organization.
 
 Employment History:
 
-Director Engineering, TUCOWS/Wavelo //2020-2024
+Director Engineering, TUCOWS/Wavelo //2021-2024
 
 -   Shipped Barndoor, an api gateway implementation for Tucows/Dish
     collaboration that manages ingress and distributes it to internal
@@ -36,7 +36,7 @@ Director Engineering, TUCOWS/Wavelo //2020-2024
     the widespread adoption of distributed miroservice architecture at
     Tucows across all lines of business.
 
-Manager Engineering, TUCOWS/Domains // 2017-2020
+Manager Engineering, TUCOWS/Domains // 2017-2021
 
 -   Managed design & development team for Remootify, an event scheduling
     service that is successfully being used by key Tucows lines of

@@ -11,7 +11,7 @@
 Accomplished Engineering Leader with a proven track record of driving high-performance teams to deliver impactful results. Known for fostering a culture of innovation, collaboration, and fun while navigating complex technical challenges. Recognized for being an empathetic leader who values open communication and actively listens to team members' needs and concerns. Dedicated to cultivating talent and creating an environment where individuals thrive and organizations succeed. Experienced in leading cross-functional teams and delivering projects on time and within budget. Ready to leverage expertise in software development, architecture, and team leadership to drive excellence in your organization.
 
 ### Employment History:
-#### Director Engineering, TUCOWS/Wavelo _//2020-2024_
+#### Director Engineering, TUCOWS/Wavelo _//2021-2024_
 
 * Shipped _Barndoor_, an api gateway implementation for _Tucows/Dish_
     collaboration that manages ingress and distributes it to internal microservices.
@@ -22,7 +22,7 @@ Accomplished Engineering Leader with a proven track record of driving high-perfo
     widespread adoption of distributed miroservice architecture 
     at Tucows across all lines of business.
 
-#### Manager Engineering, TUCOWS/Domains  _// 2017-2020_
+#### Manager Engineering, TUCOWS/Domains  _// 2017-2021_
 
 * Managed design & development team for _Remootify_, an event scheduling
     service that is successfully being used by key Tucows lines of business
