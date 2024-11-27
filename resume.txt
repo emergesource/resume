@@ -20,7 +20,7 @@ your organization.
 
 Experience
 
-Director of Engineering, TUCOWS/Wavelo – 2021-2024
+Director of Engineering TUCOWS/Wavelo 2021-2024
 
 -   Shipped Barndoor, an api gateway implementation for Tucows/Dish
     collaboration that manages ingress and distributes it to internal
@@ -96,7 +96,7 @@ Technology
 
 Education
 
-Seneca College of Applied Arts and Technology 1999 - 2002
+Seneca College of Applied Arts and Technology
 
 -   Computer Programming and Analysis Diploma
 -   Applications Developer specialization

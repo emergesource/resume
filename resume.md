@@ -11,8 +11,7 @@
 Accomplished Engineering Leader with a proven track record of driving high-performance teams to deliver impactful results. Known for fostering a culture of innovation, collaboration, and fun while navigating complex technical challenges. Recognized for being an empathetic leader who values open communication and actively listens to team members' needs and concerns. Dedicated to cultivating talent and creating an environment where individuals thrive and organizations succeed. Experienced in leading cross-functional teams and delivering projects on time and within budget. Ready to leverage expertise in software development, architecture, and team leadership to drive excellence in your organization.
 
 ## Experience
-
-### Director of Engineering, TUCOWS/Wavelo -- _2021-2024_
+### Director of Engineering TUCOWS/Wavelo <small>2021-2024</small>
 
 * Shipped _Barndoor_, an api gateway implementation for _Tucows/Dish_
     collaboration that manages ingress and distributes it to internal microservices.
@@ -23,7 +22,7 @@ Accomplished Engineering Leader with a proven track record of driving high-perfo
     widespread adoption of distributed miroservice architecture 
     at Tucows across all lines of business.
 
-### Engineering Manager, TUCOWS/Domains  _2017-2021_
+### Engineering Manager, TUCOWS/Domains <small>2017-2021</small>
 
 * Managed design & development team for _Remootify_, an event scheduling
     service that is successfully being used by key Tucows lines of business
@@ -34,7 +33,7 @@ Accomplished Engineering Leader with a proven track record of driving high-perfo
     application that showcased a new frontend stack featuring React/Flux, 
     which later evolved to vuejs/vuext and is now the basis for modern UI work at Tucows.
 
-### Senior Engineer, Tucows Domains _2015-2017_
+### Senior Engineer, Tucows Domains <small>2015-2017</small>
 
 * Delivered key frontend components for GDPR readiness including tieredaccess.com
     and RDAP admin tool.
@@ -44,7 +43,7 @@ Accomplished Engineering Leader with a proven track record of driving high-perfo
 * Collaborated with Automattic/Wordpress team on an OpenSRS Domains Platform integration
     that led Tucows to acquire wordpress.com domain registrations from GoDaddy.
 
-### Senior Software Developer, FIRE ENGINE RED _2012-2015_
+### Senior Software Developer, FIRE ENGINE RED <small>2012-2015</small>
 
 * Trusted individual contributor on engineering team committed to keeping America's
     colleges and universities stocked with fresh minds.
@@ -53,7 +52,7 @@ Accomplished Engineering Leader with a proven track record of driving high-perfo
     points for (near) real time decision making. 
 * Provided guidance and leadership on testing & refactoring of legacy codebase.
 
-### Senior Software Developer, MEDICAL PHARMACIES _2003-2012_
+### Senior Software Developer, MEDICAL PHARMACIES <small>2003-2012</small>
 
 * Technical Lead on a small team of engineers(3) dedicated to improving patient
     outcomes.
@@ -79,7 +78,7 @@ Accomplished Engineering Leader with a proven track record of driving high-perfo
 
 ## Education
 
-### Seneca College of Applied Arts and Technology _1999 - 2002_
+### Seneca College of Applied Arts and Technology
 * Computer Programming and Analysis Diploma
 * Applications Developer specialization
 * Internet Specialist specialization
