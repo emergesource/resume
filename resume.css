@@ -6,6 +6,7 @@ body {
 	line-height: 1.5;
     margin: 0 auto;
     max-width: 80%;
+    padding: 2em 0;
 }
 
 h1 { 
@@ -45,6 +46,6 @@ section {
 }
 
 article {
-    margin: 2em 0;
+    margin: 1em 0;
     page-break-inside: avoid;
 }
