@@ -40,7 +40,11 @@ h3 small {
     letter-spacing: .2em;
 }
 
+section {
+    margin: 2em 0;
+}
 
 article {
+    margin: 2em 0;
     page-break-inside: avoid;
 }

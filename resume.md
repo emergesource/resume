@@ -89,10 +89,17 @@ Accomplished Engineering Leader with a proven track record of driving high-perfo
 <section>
 
 ## Skills
+
+<article>
+
 ### Leadership
 * Team Building, Leadership, Mentoring
 * Programming, Architecture, Design
 * CI/CD, Testing, Automation
+
+</article>
+
+<article>
 
 ### Technology
 * Python, Javascript, Perl, PHP, C
@@ -100,6 +107,8 @@ Accomplished Engineering Leader with a proven track record of driving high-perfo
 * Kafka, Redis, PostgreSQL, MySQL
 * Docker, Nomad, Consul, Vault, Kubernetes
 * Elasticsearch, Kibana, Fluentd, Prometheus, Grafana
+
+</article>
 
 </section>
 
@@ -116,14 +125,15 @@ Accomplished Engineering Leader with a proven track record of driving high-perfo
 
 </article>
 
-<article>
+</section>
+
+
+<section>
 
 ### Interests
 * Captain of my “D” league championship hockey team
 * Guitar player extraordinaire
 * Lifelong vimrc tinkerer
-
-</article>
 
 </section>
 
