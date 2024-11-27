@@ -44,7 +44,7 @@ Engineering Manager, TUCOWS/Domains 2017-2021
     React/Flux, which later evolved to vuejs/vuext and is now the basis
     for modern UI work at Tucows.
 
-Senior Engineer, Tucows Domains 2015-2017
+Senior Engineer, Tucows/Domains 2015-2017
 
 -   Delivered key frontend components for GDPR readiness including
     tieredaccess.com and RDAP admin tool.
