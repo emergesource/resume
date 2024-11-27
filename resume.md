@@ -1,7 +1,7 @@
 # Colin Campbell
 <!-- # Software Engineer -->
 <!-- #### Toronto, CANADA -->
-Software Engineering | Tech Leadership
+## Software Engineering & Leadership
 <!-- ### Resume -->
 
 --- 
@@ -11,7 +11,8 @@ Software Engineering | Tech Leadership
 Accomplished Engineering Leader with a proven track record of driving high-performance teams to deliver impactful results. Known for fostering a culture of innovation, collaboration, and fun while navigating complex technical challenges. Recognized for being an empathetic leader who values open communication and actively listens to team members' needs and concerns. Dedicated to cultivating talent and creating an environment where individuals thrive and organizations succeed. Experienced in leading cross-functional teams and delivering projects on time and within budget. Ready to leverage expertise in software development, architecture, and team leadership to drive excellence in your organization.
 
 ## Experience
-### Director of Engineering, TUCOWS/Wavelo _2021-2024_
+
+### Director of Engineering, TUCOWS/Wavelo -- _2021-2024_
 
 * Shipped _Barndoor_, an api gateway implementation for _Tucows/Dish_
     collaboration that manages ingress and distributes it to internal microservices.
@@ -78,7 +79,7 @@ Accomplished Engineering Leader with a proven track record of driving high-perfo
 
 ## Education
 
-### Seneca College of Applied Arts and Technology _// 1999 - 2002_
+### Seneca College of Applied Arts and Technology _1999 - 2002_
 * Computer Programming and Analysis Diploma
 * Applications Developer specialization
 * Internet Specialist specialization

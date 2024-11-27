@@ -4,13 +4,16 @@
 
 body {
     color: #1e1e1e;
+    background-color: #fefefe; /* Set a white background */
+
 	/* font-family: Menlo,Meslo LG,monospace; */
     font-family: Roboto;
 	font-size: 16px;
 	line-height: 1.5;
-    margin: auto;
-    padding: 1em;
+    margin: 0 auto;
+    /* padding: 1em; */
     max-width: 80%;
+    font-weight: 400;
 }
 
 /* h1 {
@@ -33,25 +36,25 @@ h2 {
 h1 { 
 	font-size: 1.5em;
 	font-weight: 600;
-	letter-spacing: .1rem;
+	letter-spacing: .1em;
     margin: 0;
 }
 
 h2 {
     margin: 0;
     font-weight: 600;
-    letter-spacing: .2rem;
+    letter-spacing: .2em;
     text-transform: uppercase;
-    font-size: 0.85rem;
+    font-size: 0.85em;
     /* color: #4d4d4d; */
 }
 
 h3 {
     margin: 0;
     font-weight: 800;
-    letter-spacing: .2rem;
+    letter-spacing: .2em;
     text-transform: uppercase;
-    font-size: 0.85rem;
+    font-size: 0.85em;
     /* font-size: 0.85rem; */
     /* margin-top: 2em; */
     /* padding: 0; */
@@ -59,9 +62,10 @@ h3 {
 
 em {
     color: #5e5e5e;
-    
     text-transform: uppercase;
     font-style: normal;
+    /* font-size: 1rem; */
+    letter-spacing: .2em;
 }
 
 /*
