@@ -92,7 +92,7 @@ Accomplished Engineering Leader with a proven track record of driving high-perfo
 
 ---
 
-> * <i class="fas fa-envelope"></i> [colin@elusivelabs.com](mailto:colin@emergesource.com)
+> * <i class="fas fa-envelope"></i> [colin@emergesource.com](mailto:colin@emergesource.com)
 > * <i class="fas fa-desktop"></i> [https://eluslivelabs.com/colin](https://elusivelabs.com/colin)
 > * <i class="fab fa-linkedin-in"></i> [https://linkedin.com/in/colincode](https://www.linkedin.com/in/colincode/)
 > * <i class="fab fa-github"></i> [https://github.com/ccmpb](https://github.com/ccmpb)
