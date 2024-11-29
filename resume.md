@@ -1,23 +1,13 @@
 # Colin Campbell
-<!-- # Software Engineer -->
-<!-- #### Toronto, CANADA -->
+
 ## Software Engineering & Leadership
-<!-- ### Resume -->
 
 --- 
-
-<section>
 
 ## Profile
 Accomplished Engineering Leader with a proven track record of driving high-performance teams to deliver impactful results. Known for fostering a culture of innovation, collaboration, and fun while navigating complex technical challenges. Recognized for being an empathetic leader who values open communication and actively listens to team members' needs and concerns. Dedicated to cultivating talent and creating an environment where individuals thrive and organizations succeed. Experienced in leading cross-functional teams and delivering projects on time and within budget. Ready to leverage expertise in software development, architecture, and team leadership to drive excellence in your organization.
 
-</section>
-
-<section>
-
 ## Experience
-
-<article>
 
 ### Director of Engineering TUCOWS/Wavelo <small>2021-2024</small>
 * Head Software Architecture and leader of 34 engineers across multiple disciplines.
@@ -25,10 +15,6 @@ Accomplished Engineering Leader with a proven track record of driving high-perfo
 * Collaborated with other department leads to deliver on strategic initiatives.
 * Operated and maintained the private cloud platform that supports Wavelo's 8 million DISH subscribers.
 * Lead the observability transition from Datadog to Grafana saving millions in operating costs.
-
-</article>
-
-<article>
 
 ### Engineering Manager, TUCOWS/Domains <small>2017-2021</small>
 * 2 Million Domains under management
@@ -41,10 +27,6 @@ Accomplished Engineering Leader with a proven track record of driving high-perfo
     application that showcased a new frontend stack featuring React/Flux, 
     which later evolved to vuejs/vuext and is now the basis for modern UI work at Tucows.
 
-</article>
-
-<article>
-
 ### Senior Engineer, Tucows/Domains <small>2015-2017</small>
 * 60 Million Domains under management
 * Delivered key frontend components for GDPR readiness including tieredaccess.com
@@ -55,9 +37,6 @@ Accomplished Engineering Leader with a proven track record of driving high-perfo
 * Collaborated with Automattic/Wordpress team on an OpenSRS Domains Platform integration
     that led Tucows to acquire wordpress.com domain registrations from GoDaddy.
 * prepared aging codebase for modernization with refactoring and testing
-</article>
-
-<article>
 
 ### Senior Software Developer, FIRE ENGINE RED <small>2012-2015</small>
 * Trusted individual contributor on engineering team committed to keeping America's
@@ -66,10 +45,6 @@ Accomplished Engineering Leader with a proven track record of driving high-perfo
     leveraging apache solr to deliver instant search results on multiple user data
     points for (near) real time decision making. 
 * Provided guidance and leadership on testing & refactoring of legacy codebase.
-
-</article>
-
-<article>
 
 ### Senior Software Developer, MEDICAL PHARMACIES <small>2003-2012</small>
 * Technical Lead on a small team of engineers(3) dedicated to improving patient
@@ -81,24 +56,12 @@ Accomplished Engineering Leader with a proven track record of driving high-perfo
     locations,  providing the organization with much needed business and patient
     care insights.
 
-</article>
-
-</section>
-
-<section>
-
 ## Skills
-
-<article>
 
 ### Leadership
 * Team Building, Leadership, Mentoring
 * Programming, Architecture, Design
 * CI/CD, Testing, Automation
-
-</article>
-
-<article>
 
 ### Technology
 * Python, Javascript, Perl, PHP, C
@@ -107,50 +70,24 @@ Accomplished Engineering Leader with a proven track record of driving high-perfo
 * Docker, Nomad, Consul, Vault, Kubernetes
 * Elasticsearch, Kibana, Fluentd, Prometheus, Grafana
 
-</article>
-
-</section>
-
-<section>
-
 ## Education
-
-<article>
 
 ### Seneca College of Applied Arts and Technology
 * Computer Programming and Analysis Diploma
 * Applications Developer specialization
 * Internet Specialist specialization
 
-</article>
-
-</section>
-
-
-<section>
-
 ### Interests
 * Captain of my “D” league championship hockey team
 * Guitar player extraordinaire
 * Lifelong vimrc tinkerer
 
-</section>
-
-<section>
-
 ## Contact
 
 ---
-
 > * <i class="fas fa-envelope"></i> [colin@emergesource.com](mailto:colin@emergesource.com)
 > * <i class="fas fa-desktop"></i> [https://eluslivelabs.com/colin](https://elusivelabs.com/colin)
 > * <i class="fab fa-linkedin-in"></i> [https://linkedin.com/in/colincode](https://www.linkedin.com/in/colincode/)
 > * <i class="fab fa-github"></i> [https://github.com/ccmpb](https://github.com/ccmpb)
 
-</section>
-
-<section>
-
 References supplied on request.
-
-</section>
