@@ -20,20 +20,18 @@ Accomplished Engineering Leader with a proven track record of driving high-perfo
 <article>
 
 ### Director of Engineering TUCOWS/Wavelo <small>2021-2024</small>
-* Shipped _Barndoor_, an api gateway implementation for _Tucows/Dish_
-    collaboration that manages ingress and distributes it to internal microservices.
-* Champion of _common infrastructure_ project that provides Tucows engineering
-    teams with simple and reusable infrastructure as code solutions to 
-    common architecture problems with terraform and salt.
-* Lead on _Project Hoofprint_ (blueprint) which laid the groundwork for the 
-    widespread adoption of distributed miroservice architecture 
-    at Tucows across all lines of business.
+* Head Software Architecture and leader of 34 engineers across multiple disciplines.
+* Designed and implemented Wavelo's event driven microservice architecture.
+* Collaborated with other department leads to deliver on strategic initiatives.
+* Operated and maintained the private cloud platform that supports Wavelo's 8 million DISH subscribers.
+* Lead the observability transition from Datadog to Grafana saving millions in operating costs.
 
 </article>
 
 <article>
 
 ### Engineering Manager, TUCOWS/Domains <small>2017-2021</small>
+* 2 Million Domains under management
 * Managed design & development team for _Remootify_, an event scheduling
     service that is successfully being used by key Tucows lines of business
     such as _Hover_ and _Ting Mobile_.
@@ -48,6 +46,7 @@ Accomplished Engineering Leader with a proven track record of driving high-perfo
 <article>
 
 ### Senior Engineer, Tucows/Domains <small>2015-2017</small>
+* 60 Million Domains under management
 * Delivered key frontend components for GDPR readiness including tieredaccess.com
     and RDAP admin tool.
 * Provided improvements to aging solr implementation.
@@ -55,7 +54,7 @@ Accomplished Engineering Leader with a proven track record of driving high-perfo
     million domains from MelbourneIT acquisition.
 * Collaborated with Automattic/Wordpress team on an OpenSRS Domains Platform integration
     that led Tucows to acquire wordpress.com domain registrations from GoDaddy.
-
+* prepared aging codebase for modernization with refactoring and testing
 </article>
 
 <article>
