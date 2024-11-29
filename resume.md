@@ -1,6 +1,6 @@
 # Colin Campbell
 
-## Software Engineering & Leadership
+#### Software Engineering & Leadership
 
 --- 
 
@@ -56,6 +56,7 @@ Accomplished Engineering Leader with a proven track record of driving high-perfo
     locations,  providing the organization with much needed business and patient
     care insights.
 
+
 ## Skills
 
 ### Leadership
@@ -77,17 +78,18 @@ Accomplished Engineering Leader with a proven track record of driving high-perfo
 * Applications Developer specialization
 * Internet Specialist specialization
 
-### Interests
+## Interests
 * Captain of my “D” league championship hockey team
 * Guitar player extraordinaire
 * Lifelong vimrc tinkerer
 
-## Contact
 
 ---
-> * <i class="fas fa-envelope"></i> [colin@emergesource.com](mailto:colin@emergesource.com)
-> * <i class="fas fa-desktop"></i> [https://eluslivelabs.com/colin](https://elusivelabs.com/colin)
-> * <i class="fab fa-linkedin-in"></i> [https://linkedin.com/in/colincode](https://www.linkedin.com/in/colincode/)
-> * <i class="fab fa-github"></i> [https://github.com/ccmpb](https://github.com/ccmpb)
 
-References supplied on request.
+## Contact
+
+> * <b>Phone:</b> 416-995-9404 
+> * <b>Mail:</b> colin@emergesource.com 
+> * <b>Web:</b> https://cc4m.net
+> * <b>linkedin:</b> https://www.linkedin.com/in/colincode/
+> * <b>github:</b> https://github.com/emergesource

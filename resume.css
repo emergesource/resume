@@ -1,3 +1,5 @@
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.1/css/all.min.css');
+
 body {
     color: #1e1e1e;
     background-color: #fefefe;
@@ -32,6 +34,14 @@ h3 {
     font-size: 0.85em;    
 }
 
+h4 {
+    margin: 0;
+    font-weight: 600;
+    letter-spacing: .2em;
+    text-transform: uppercase;
+    
+}
+
 h3 small {
     color: #5e5e5e;
     font-size: 1em;
@@ -43,9 +53,27 @@ h3 small {
 
 section {
     margin: 2em 0;
+    /* page-break-inside: avoid; */
 }
 
 article {
     margin: 1em 0;
     page-break-inside: avoid;
+}
+
+blockquote {
+    margin: 0;
+    font-size: 0.85em;
+}
+
+blockquote ul {
+    list-style: none;
+    padding: 0;
+}
+
+blockquote b {
+    letter-spacing: .2em;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 0.85em;
 }
