@@ -10,11 +10,12 @@ Accomplished Engineering Leader with a proven track record of driving high-perfo
 ## Experience
 
 ### Director of Engineering TUCOWS/Wavelo <small>2021-2024</small>
-* Head Software Architecture and leader of 34 engineers across multiple disciplines.
+* Head of Software Architecture 
+* Leader of 34 engineers across multiple disciplines.
 * Designed and implemented Wavelo's event driven microservice architecture.
 * Collaborated with other department leads to deliver on strategic initiatives.
 * Operated and maintained the private cloud platform that supports Wavelo's 8 million DISH subscribers.
-* Lead the observability transition from Datadog to Grafana saving millions in operating costs.
+* Lead an observability transition from Datadog to Grafana saving millions in operating costs.
 
 ### Engineering Manager, TUCOWS/Domains <small>2017-2021</small>
 * 2 Million Domains under management
