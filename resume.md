@@ -5,7 +5,16 @@
 --- 
 
 ## Profile
-Accomplished Engineering Leader with a proven track record of driving high-performance teams to deliver impactful results. Known for fostering a culture of innovation, collaboration, and fun while navigating complex technical challenges. Recognized for being an empathetic leader who values open communication and actively listens to team members' needs and concerns. Dedicated to cultivating talent and creating an environment where individuals thrive and organizations succeed. Experienced in leading cross-functional teams and delivering projects on time and within budget. Ready to leverage expertise in software development, architecture, and team leadership to drive excellence in your organization.
+I am an accomplished Engineering Leader with a proven track record of driving 
+high-performance teams to deliver impactful results. I'm Known for fostering a 
+culture of innovation, collaboration, and fun while navigating complex technical 
+challenges. I've been recognized as an empathetic leader who values open 
+communication and actively listens to team members' needs and concerns. I'm 
+dedicated to cultivating talent and creating an environment where individuals 
+thrive and organizations succeed. Experienced in leading cross-functional teams 
+and delivering projects on time and within budget. I'm ready to leverage my 
+expertise in software development, architecture, and team leadership to drive 
+excellence in your organization.
 
 ## Experience
 
@@ -15,8 +24,7 @@ leading a team of 34 engineers and managers. I was responsible for the
 long-term vision and strategic planning of the platform that powers Wavelo’s services.
 
 * Designed and implemented Wavelo's event driven microservice architecture.
-* Ensured high reliability for 8 million BOOST subscribers by operating Wavelo's 
-private cloud platform with Terraform, OpenStack, and HashiStack.
+* Ensured high reliability for 8 million BOOST subscribers by operating Wavelo's cloud platform. 
 * Collaborated with other department leads to deliver on strategic initiatives.
 * Lead an observability transition from Datadog to Grafana saving millions in operating costs.
 
