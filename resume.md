@@ -10,52 +10,62 @@ Accomplished Engineering Leader with a proven track record of driving high-perfo
 ## Experience
 
 ### Director of Engineering TUCOWS/Wavelo <small>2021-2024</small>
-* Head of Software Architecture 
-* Leader of 34 engineers across multiple disciplines.
+At Wavelo, I served as the Director of Engineering for Software Architecture, 
+leading a team of 34 engineers and managers. I was responsible for the 
+long-term vision and strategic planning of the platform that powers Wavelo’s services.
+
 * Designed and implemented Wavelo's event driven microservice architecture.
+* Ensured high reliability for 8 million BOOST subscribers by operating Wavelo's 
+private cloud platform with Terraform, OpenStack, and HashiStack.
 * Collaborated with other department leads to deliver on strategic initiatives.
-* Operated and maintained the private cloud platform that supports Wavelo's 8 million DISH subscribers.
 * Lead an observability transition from Datadog to Grafana saving millions in operating costs.
 
 ### Engineering Manager, TUCOWS/Domains <small>2017-2021</small>
-* 2 Million Domains under management
-* Managed design & development team for _Remootify_, an event scheduling
-    service that is successfully being used by key Tucows lines of business
-    such as _Hover_ and _Ting Mobile_.
-* Influenced internal process changes to ci/cd pipelines that are now
-    widely accepted across the entire company.
-* Lead a team through the design and development of a domain admin
-    application that showcased a new frontend stack featuring React/Flux, 
-    which later evolved to vuejs/vuext and is now the basis for modern UI work at Tucows.
+As an Engineering Manager at Tucows Domains, I took a hands-on approach while 
+overseeing multiple teams of 4-6 people, including the OpenSRS UI 
+and Hover engineering teams.
+
+* Provided Kafka event driven reference architecture and migration plan to modernize OpenSRS.
+* Manged Hover beyond the 2 million domains under management milestone. 
+* Rejuvinated Hover background processing with Sidekick. 
+* Modernized CICD pipelines from Jenkins to github actions 
+* Delivered modern domain admin tooling with vuejs.
 
 ### Senior Engineer, Tucows/Domains <small>2015-2017</small>
-* 60 Million Domains under management
-* Delivered key frontend components for GDPR readiness including tieredaccess.com
-    and RDAP admin tool.
-* Provided improvements to aging solr implementation.
-* Contributed to OpenSRS Domain Platform shim that allowed Tucows to ingest 1.5
-    million domains from MelbourneIT acquisition.
-* Collaborated with Automattic/Wordpress team on an OpenSRS Domains Platform integration
-    that led Tucows to acquire wordpress.com domain registrations from GoDaddy.
-* prepared aging codebase for modernization with refactoring and testing
+As a Senior Engineer at Tucows Domains, I was initially hired to liaise with the 
+WordPress/Automattic group and prepare OpenSRS for the .blog launch. After the 
+launch, I stayed on with the OpenSRS team in an engineering and team lead role.
+
+* Delivered key frontend components for GDPR readiness. 
+* Provided timely improvements to aging SOLR implementation.
+* Contributed to the OpenSRS Domain Platform migration, enabling Tucows to 
+integrate millions of domains from acquisitions like MelbourneIT and ENOM.
+* Worked with the Autmattic team on the PHP OpenSRS toolkit leading Tucows to acquire WordPress.com domain registrations from GoDaddy.
+* Prepared aging OpenSRS PERL codebase for modernization with refactoring and testing.
 
 ### Senior Software Developer, FIRE ENGINE RED <small>2012-2015</small>
-* Trusted individual contributor on engineering team committed to keeping America's
-    colleges and universities stocked with fresh minds.
+As a Senior Developer at Fire Engine Red, I was a trusted individual contributor 
+on the engineering team, dedicated to keeping America’s colleges and universities 
+stocked with fresh minds.
+
 * Implemented admission and alumni search solution to flagship CRM product,
-    leveraging apache solr to deliver instant search results on multiple user data
+    leveraging Apache solr to deliver instant search results on multiple user data
     points for (near) real time decision making. 
 * Provided guidance and leadership on testing & refactoring of legacy codebase.
 
 ### Senior Software Developer, MEDICAL PHARMACIES <small>2003-2012</small>
-* Technical Lead on a small team of engineers(3) dedicated to improving patient
-    outcomes.
+As a Senior Engineer, I led a small team of 3 focused on improving patient outcomes. 
+With a small crew, I leaned heavily on automation to stay efficient, and learned 
+firsthand how crucial testing and reliability are since a mistake could have 
+serious real-world consequences.
+
 * First to market on innovative mobile pharmacy interaction tools.
 * Delivered a patient aware drug inventory system servicing thousands of beds that 
     drastically reduced medication errors and pharmacy waste.
 * Implemented a highly available data warehouse solution across 30+ retail
     locations,  providing the organization with much needed business and patient
     care insights.
+* Maintained operational redundancies with hardware and software.
 
 
 ## Skills
