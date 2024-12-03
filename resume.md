@@ -27,6 +27,8 @@ long-term vision and strategic planning of the platform that powers Wavelo’s s
 * Ensured high reliability for 8 million BOOST subscribers by operating Wavelo's cloud platform. 
 * Collaborated with other department leads to deliver on strategic initiatives.
 * Lead an observability transition from Datadog to Grafana saving millions in operating costs.
+* Delivered self-service platform tools allowing internal engineering teams to opt-in 
+to platform services while they focus on their business inititives.
 
 ### Engineering Manager, TUCOWS/Domains <small>2017-2021</small>
 As an Engineering Manager at Tucows Domains, I took a hands-on approach while 

@@ -35,6 +35,9 @@ platform that powers Wavelo’s services.
     initiatives.
 -   Lead an observability transition from Datadog to Grafana saving
     millions in operating costs.
+-   Delivered self-service platform tools allowing internal engineering
+    teams to opt-in to platform services while they focus on their
+    business inititives.
 
 Engineering Manager, TUCOWS/Domains 2017-2021
 

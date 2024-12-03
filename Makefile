@@ -10,7 +10,7 @@ resume.txt: resume.md
 	pandoc --standalone --from markdown --to plain -o resume.txt resume.md
 
 ColinCampbell.zip: resume.md resume.pdf resume.html resume.txt
-	zip ColinCampbell.zip resume.pdf resume.html resume.txt
+	zip ColinCampbell.zip resume.md resume.pdf resume.html resume.txt
 
 clean:
 	rm -f *.html *.pdf *.txt
