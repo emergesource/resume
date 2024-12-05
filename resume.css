@@ -53,17 +53,18 @@ h3 small {
 
 section {
     margin: 2em 0;
-    /* page-break-inside: avoid; */
+    page-break-inside: avoid;
 }
 
 article {
-    margin: 1em 0;
+    margin-top: 1em;
     page-break-inside: avoid;
 }
 
 blockquote {
     margin: 0;
     font-size: 0.85em;
+    page-break-after: avoid;
 }
 
 blockquote ul {
@@ -78,8 +79,8 @@ blockquote b {
     font-size: 0.85em;
 }
 
-@media print {
-    body {
-        max-width: 100% !important;
-    }
-}
+/* @media print { */
+/*     body { */
+/*         max-width: 100% !important; */
+/*     } */
+/* } */

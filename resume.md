@@ -21,14 +21,14 @@ excellence in your organization.
 ### Director of Engineering TUCOWS/Wavelo <small>2021-2024</small>
 At Wavelo, I served as the Director of Engineering for Software Architecture, 
 leading a team of 34 engineers and managers. I was responsible for the 
-long-term vision and strategic planning of the platform that powers Wavelo’s services.
+long-term vision and strategic planning of the platform that powers Wavelo’s mobile services.
 
 * Designed and implemented Wavelo's event driven microservice architecture.
 * Ensured high reliability for 8 million BOOST subscribers by operating Wavelo's cloud platform. 
 * Collaborated with other department leads to deliver on strategic initiatives.
 * Lead an observability transition from Datadog to Grafana saving millions in operating costs.
 * Delivered self-service platform tools allowing internal engineering teams to opt-in 
-to platform services while they focus on their business inititives.
+to platform services while they focus on their business initiatives.
 
 ### Engineering Manager, TUCOWS/Domains <small>2017-2021</small>
 As an Engineering Manager at Tucows Domains, I took a hands-on approach while 
@@ -37,7 +37,7 @@ and Hover engineering teams.
 
 * Provided Kafka event driven reference architecture and migration plan to modernize OpenSRS.
 * Manged Hover beyond the 2 million domains under management milestone. 
-* Rejuvinated Hover background processing with Sidekick. 
+* Rejuvenated Hover background processing with Sidekick. 
 * Modernized CICD pipelines from Jenkins to github actions 
 * Delivered modern domain admin tooling with vuejs.
 
@@ -86,29 +86,27 @@ serious real-world consequences.
 * CI/CD, Testing, Automation
 
 ### Technology
-* Python, Javascript, Perl, PHP, C
+* Python, Javascript/nodejs, Perl, PHP, C
 * React + Flux, Vuejs + Vuext
 * Kafka, Redis, PostgreSQL, MySQL
 * Docker, Nomad, Consul, Vault, Kubernetes
 * Elasticsearch, Kibana, Fluentd, Prometheus, Grafana
 
-## Education
+## Education & Interests
 
 ### Seneca College of Applied Arts and Technology
 * Computer Programming and Analysis Diploma
 * Applications Developer specialization
 * Internet Specialist specialization
 
-## Interests
+### Interests
 * Captain of my “D” league championship hockey team
 * Guitar player extraordinaire
 * Lifelong vimrc tinkerer
 
-
 ---
 
 ## Contact
-
 > * <b>Phone:</b> 416-995-9404 
 > * <b>Mail:</b> colin@emergesource.com 
 > * <b>Web:</b> https://cc4m.net

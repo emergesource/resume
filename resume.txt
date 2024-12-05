@@ -25,7 +25,7 @@ Director of Engineering TUCOWS/Wavelo 2021-2024
 At Wavelo, I served as the Director of Engineering for Software
 Architecture, leading a team of 34 engineers and managers. I was
 responsible for the long-term vision and strategic planning of the
-platform that powers Wavelo’s services.
+platform that powers Wavelo’s mobile services.
 
 -   Designed and implemented Wavelo’s event driven microservice
     architecture.
@@ -37,7 +37,7 @@ platform that powers Wavelo’s services.
     millions in operating costs.
 -   Delivered self-service platform tools allowing internal engineering
     teams to opt-in to platform services while they focus on their
-    business inititives.
+    business initiatives.
 
 Engineering Manager, TUCOWS/Domains 2017-2021
 
@@ -49,7 +49,7 @@ and Hover engineering teams.
     plan to modernize OpenSRS.
 -   Manged Hover beyond the 2 million domains under management
     milestone.
--   Rejuvinated Hover background processing with Sidekick.
+-   Rejuvenated Hover background processing with Sidekick.
 -   Modernized CICD pipelines from Jenkins to github actions
 -   Delivered modern domain admin tooling with vuejs.
 
@@ -109,13 +109,13 @@ Leadership
 
 Technology
 
--   Python, Javascript, Perl, PHP, C
+-   Python, Javascript/nodejs, Perl, PHP, C
 -   React + Flux, Vuejs + Vuext
 -   Kafka, Redis, PostgreSQL, MySQL
 -   Docker, Nomad, Consul, Vault, Kubernetes
 -   Elasticsearch, Kibana, Fluentd, Prometheus, Grafana
 
-Education
+Education & Interests
 
 Seneca College of Applied Arts and Technology
 
