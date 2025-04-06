@@ -1,10 +1,6 @@
-<center>
-
 __COLIN CAMPBELL__
 Toronto, CANADA • 416-995-9404
 colin@emergesource.com • https://www.linkedin.com/in/colincode/
-
-</center>
 
 Versatile Software Engineering Leader with 20+ years of expertise in shipping full-stack software products. Dedicated to cultivating talent and creating an environment where individuals have fun and thrive.  Skilled at guiding cross-functional teams to achieve measurable success while fostering a culture of trust, creativity, and continuous growth.
 
@@ -14,11 +10,7 @@ Engineering Leadership • Application Development Platform Engineering • Anal
 
 ___
 
-<center>
-
 __PROFESSIONAL EXPERIENCE__
-
-</center>
 
 __TUCOWS INC, Toronto ON, 2015-2024__
 __Director of Engineering, Platform Architecture__
@@ -78,7 +70,6 @@ __Senior Software Developer, Pharmacy Engineering__
     care insights. [VMware]
 * Maintained operational redundancies with hardware and software. [Perl, VMware]
 
-<center>
 
 __FORMAL EDUCATION__
 
@@ -92,4 +83,3 @@ Internet Specialist
 __TECHNICAL SKILLS__
 Python • JavaScript • Node.js • Perl • PHP • C • BASH • Django • React • Vue • HTMX • PostgreSQL • MySQL • Redis • CI/CD • Git • GitHub Actions • Jenkins • Kafka • Terraform • Kubernetes • Docker • Nomad • Consul • Vault • Elasticsearch • Kibana • Fluentd • Prometheus • Grafana • Unix • Linux • OpenStack • DigitalOcean • AWS • GCP
 
-</center>
