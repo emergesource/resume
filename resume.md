@@ -6,11 +6,11 @@ colin@emergesource.com • https://www.linkedin.com/in/colincode/
 
 </center>
 
-__Experienced Software Engineering Leader__ with 20+ years of expertise in shipping full-stack software products. Dedicated to cultivating talent and creating an environment where individuals have fun and thrive.  Skilled at guiding cross-functional teams to achieve measurable success while fostering a culture of trust, creativity, and continuous growth.
+Versatile Software Engineering Leader with 20+ years of expertise in shipping full-stack software products. Dedicated to cultivating talent and creating an environment where individuals have fun and thrive.  Skilled at guiding cross-functional teams to achieve measurable success while fostering a culture of trust, creativity, and continuous growth.
 
 ___
 
-Engineering Leadership • Team Building • Strategic Planning • Process Optimization • Continuous Improvement • Application Development • Coaching & Mentoring • Product Validation • Backend Engineering • Infrastructure Automation
+Software Development • Platform Engineering Team Building • Analysis & Design * Strategic Planning • Process Optimization • Software Design • Continuous Improvement • Application Development • Coaching & Mentoring • Product Development • Backend Engineering • Infrastructure • Automation • Code Quality • Project Roadmaps & Delivery 
 
 ___
 
@@ -90,6 +90,6 @@ Applications Developer
 Internet Specialist
 
 __TECHNICAL SKILLS__
-Python • JavaScript • Node.js • Perl • PHP • C • BASH • Django • React • Vue • HTMX • PostgreSQL • MySQL • Redis • CI/CD • Testing • Automation • Code Reviews • Git • GitHub Actions • Jenkins • Kafka • Terraform • Kubernetes • Docker • Nomad • Consul • Vault • Elasticsearch • Kibana • Fluentd • Prometheus • Grafana • Unix • Linux • OpenStack • DigitalOcean • AWS • GCP
+Python • JavaScript • Node.js • Perl • PHP • C • BASH • Django • React • Vue • HTMX • PostgreSQL • MySQL • Redis • CI/CD • Git • GitHub Actions • Jenkins • Kafka • Terraform • Kubernetes • Docker • Nomad • Consul • Vault • Elasticsearch • Kibana • Fluentd • Prometheus • Grafana • Unix • Linux • OpenStack • DigitalOcean • AWS • GCP
 
 </center>
