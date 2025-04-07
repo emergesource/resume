@@ -63,12 +63,11 @@ Engineering Manager, Tucows Domains (2017-2021)
 
 Senior Software Engineer, Tucows Domains (2015-2017)
 
--   Delivered key frontend components for GDPR readiness [Perl, Vuejs,
-    React].
+-   Delivered key frontend components for GDPR readiness.
 -   Provided timely improvements to aging SOLR implementation.
 -   Contributed to the OpenSRS Domain Platform migration, enabling
     Tucows to integrate millions of domains from acquisitions like
-    MelbourneIT and ENOM [Python, Perl].
+    MelbourneIT and ENOM.
 -   Worked with the Automattic team on the PHP OpenSRS toolkit leading
     Tucows to acquire Millions of WordPress.com domain registrations
     from GoDaddy.
