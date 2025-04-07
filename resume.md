@@ -1,6 +1,6 @@
 
-__COLIN CAMPBELL__
-Toronto, CANADA • 416-995-9404
+__COLIN CAMPBELL__  
+Toronto, CANADA • 416-995-9404  
 colin@emergesource.com • https://emergesource.com
 
 Versatile Software Engineering Leader with 20+ years of expertise in shipping full-stack software products. Dedicated to cultivating talent and creating an environment where individuals have fun and thrive.  Skilled at guiding cross-functional teams to achieve measurable success while fostering a culture of trust, creativity, and continuous growth.
@@ -13,7 +13,7 @@ ___
 
 **PROFESSIONAL EXPERIENCE**
 
-**TUCOWS INC, Toronto ON, 2015-2024**
+**TUCOWS INC, Toronto ON, 2015-2024**  
 **Director of Engineering, Platform Architecture**
 
 * Responsible for strategic planning of Wavelo platform Architecture.
@@ -49,7 +49,7 @@ integrate millions of domains from acquisitions like MelbourneIT and ENOM [Pytho
 * Worked with the Automattic team on the PHP OpenSRS toolkit leading Tucows to acquire Millions of WordPress.com domain registrations from GoDaddy.
 * Led engineering efforts for ongoing improvements and modernization of the OpenSRS platform.
 
-**FIRE ENGINE RED, Philadelphia PA,  2012-2015**
+**FIRE ENGINE RED, Philadelphia PA,  2012-2015**  
 **Senior Software Developer, Student Search**
 
 * Focused on developing solutions to help America’s colleges and universities connect with prospective students.
@@ -57,7 +57,7 @@ integrate millions of domains from acquisitions like MelbourneIT and ENOM [Pytho
 * Leveraged Apache Solr to provide real-time, multi-user search capabilities and decision-making.
 * Provided guidance and leadership on testing & refactoring of legacy codebase.
 
-**MEDICAL PHARMACIES GROUP INC, Pickering ON, 2003-2012**
+**MEDICAL PHARMACIES GROUP INC, Pickering ON, 2003-2012**  
 **Senior Software Developer, Pharmacy Engineering**
 
 * Led a small, focused team of 3 engineers dedicated to improving patient outcomes.
@@ -72,13 +72,13 @@ integrate millions of domains from acquisitions like MelbourneIT and ENOM [Pytho
 
 **FORMAL EDUCATION**
 
-**Seneca College of Applied Arts and Technology**
+**Seneca College of Applied Arts and Technology**  
 Computer Programming and Analysis
 
-**CERTIFICATES**
+**CERTIFICATES**  
 Applications Developer
 Internet Specialist
 
-**TECHNICAL SKILLS**
+**TECHNICAL SKILLS**  
 Python • JavaScript • Node.js • Perl • PHP • C • BASH • Django • React • Vue • HTMX • PostgreSQL • MySQL • Redis • CI/CD • Git • GitHub Actions • Jenkins • Kafka • Terraform • Kubernetes • Docker • Nomad • Consul • Vault • Elasticsearch • Kibana • Fluentd • Prometheus • Grafana • Unix • Linux • OpenStack • DigitalOcean • AWS • GCP
 
