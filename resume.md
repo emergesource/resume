@@ -7,7 +7,7 @@ Versatile Software Engineering Leader with 20+ years of expertise in shipping fu
 
 ___
 
-Engineering Leadership • Application • Development Platform Engineering • Analysis & Design • Team Building • Strategic Planning • Process Optimization • Continuous Improvement • Coaching & Mentoring • Product Development • Backend Engineering • Infrastructure • Automation • Code Quality • Project Roadmaps & Delivery 
+Engineering Leadership • Team Building • Coaching & Mentoring • Strategic Planning • Project Roadmaps & Delivery • Product Development • Analysis & Design • Application Development • Backend Engineering • Platform Engineering • Infrastructure • Automation • Code Quality • Process Optimization • Continuous Improvement
 
 ___
 
