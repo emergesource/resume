@@ -1,3 +1,4 @@
+
 __COLIN CAMPBELL__
 Toronto, CANADA • 416-995-9404
 colin@emergesource.com • https://www.linkedin.com/in/colincode/
@@ -6,7 +7,7 @@ Versatile Software Engineering Leader with 20+ years of expertise in shipping fu
 
 ___
 
-Engineering Leadership • Application Development Platform Engineering • Analysis & Design • Team Building • Strategic Planning • Process Optimization • Continuous Improvement • Coaching & Mentoring • Product Development • Backend Engineering • Infrastructure • Automation • Code Quality • Project Roadmaps & Delivery 
+Engineering Leadership • Application • Development Platform Engineering • Analysis & Design • Team Building • Strategic Planning • Process Optimization • Continuous Improvement • Coaching & Mentoring • Product Development • Backend Engineering • Infrastructure • Automation • Code Quality • Project Roadmaps & Delivery 
 
 ___
 
