@@ -1,44 +1,65 @@
+<center>
 
-__COLIN CAMPBELL__  
+**COLIN CAMPBELL**  
 Toronto, CANADA • 416-995-9404  
 colin@emergesource.com • https://emergesource.com
+
+**Engineering Leadership | Software Engineering | Application Development** 
+
+</center>
+
+<section>
 
 Versatile Software Engineering Leader with 20+ years of expertise in shipping full-stack software products. Dedicated to cultivating talent and creating an environment where individuals have fun and thrive.  Skilled at guiding cross-functional teams to achieve measurable success while fostering a culture of trust, creativity, and continuous growth.
 
 ___
 
-Engineering Leadership • Team Building • Coaching & Mentoring • Strategic Planning • Project Roadmaps & Delivery • Product Development • Analysis & Design • Application Development • Backend Engineering • Platform Engineering • Infrastructure • Automation • Code Quality • Process Optimization • Continuous Improvement
+Engineering Leadership • Team Building • Coaching & Mentoring • Strategic Planning • Project Roadmap & Delivery • Product Development • Analysis & Design • Application Development • Backend Engineering • Platform Engineering • Infrastructure • Automation • Code Quality • Process Optimization • Continuous Improvement
 
 ___
 
+</section>
+
+<center>
+
 **PROFESSIONAL EXPERIENCE**
+
+</center>
+
+<article>
 
 **TUCOWS INC, Toronto ON, 2015-2024**  
 **Director of Engineering, Platform Architecture**
 
 * Responsible for strategic planning of Wavelo platform Architecture.
 * Led a team of 34 engineers, managers and product managers.
-* Designed and implement implemented Wavelo's event driven microservice architecture. [Openstack, Terraform, Kafka, Nomad]
+* Designed and implemented Wavelo's event driven microservice architecture.
 * Partnered with engineering teams to provide technical guidance on system architecture trade-offs, balancing performance, reliability, and maintainability.
-* Ensured fault tolerant high availability for 8 million BOOST subscribers. [Openstack, Terraform, Grafana] 
+* Ensured fault tolerant high availability for 8 million BOOST subscribers.
 * Collaborated with other department leads to deliver on strategic initiatives.
-* Led an observability transition from Datadog to Grafana saving +$10M in operating costs.
+* Led an observability transition from Datadog to Grafana saving ~$10M in operating costs.
 * Delivered self-service platform tools allowing internal engineering teams to opt-in 
 to platform services while they focus on their business initiatives.
 * Secured $2M with Scientific Research and Experimental Development (SR&ED) Tax Credit.
-* Designed and engineered Wavelo event gateway to manage ingress of millions of daily customer requests. [Typescript, Redis, Kafka]
+* Designed and engineered Wavelo event gateway to manage ingress of millions of daily customer requests.
+
+</article>
+<article>
 
 **Engineering Manager, Tucows Domains (2017-2021)**
 
-* Responsible for both the OpenSRS UI Hover engineering teams [Rails, React].
+* Responsible for both the OpenSRS UI Hover engineering teams.
 * Managed cross-functional collaboration and project delivery.
 * Took a hands-on approach coding & leading teams of 4-6 people.
 * Led technical discussions and design reviews, guiding engineers through complex trade-offs in distributed system design.
-* Provided Kafka event driven reference architecture and migration plan to modernize OpenSRS. [Python, Perl, Kafka]
+* Provided Kafka event driven reference architecture and migration plan to modernize OpenSRS.
 * Manged Hover beyond the 2 million domains under management milestone. 
 * Rejuvenated Hover background processing with Sidekick. 
 * Modernized CICD pipelines from Jenkins to github actions 
 * Delivered modern domain admin tooling with Vuejs.
+
+</article>
+<article>
 
 **Senior Software Engineer, Tucows Domains (2015-2017)**
 
@@ -49,26 +70,39 @@ integrate millions of domains from acquisitions like MelbourneIT and ENOM [Pytho
 * Worked with the Automattic team on the PHP OpenSRS toolkit leading Tucows to acquire Millions of WordPress.com domain registrations from GoDaddy.
 * Led engineering efforts for ongoing improvements and modernization of the OpenSRS platform.
 
+
+</article>
+<article>
+
 **FIRE ENGINE RED, Philadelphia PA,  2012-2015**  
 **Senior Software Developer, Student Search**
 
 * Focused on developing solutions to help America’s colleges and universities connect with prospective students.
-* Played a key role in delivering a CRM-based admission and alumni search solution. [PHP, Symfony, Laravel]
+* Played a key role in delivering a CRM-based admission and alumni search solution.
 * Leveraged Apache Solr to provide real-time, multi-user search capabilities and decision-making.
 * Provided guidance and leadership on testing & refactoring of legacy codebase.
+
+</article>
+
+<article>
 
 **MEDICAL PHARMACIES GROUP INC, Pickering ON, 2003-2012**  
 **Senior Software Developer, Pharmacy Engineering**
 
 * Led a small, focused team of 3 engineers dedicated to improving patient outcomes.
 * Relied on automation to maintain efficiency and maximize impact with limited resources.
-* First to market on innovative mobile pharmacy interaction tools. [PHP, Javascript]
+* First to market on innovative mobile pharmacy interaction tools.
 * Delivered a patient aware drug inventory system servicing thousands of beds that 
-    drastically reduced medication errors and pharmacy waste. [C++, GTK]
-* Implemented a highly available data warehouse solution across 30+ retail
-    locations,  providing the organization with much needed business and patient
-    care insights. [VMware]
-* Maintained operational redundancies with hardware and software. [Perl, VMware]
+    drastically reduced medication errors and pharmacy waste.
+* Implemented a highly available data warehouse solution across 30+ retail locations,  providing the organization with much needed business and patient care insights.
+* Maintained operational redundancies with hardware and software.
+
+</article>
+
+
+<section>
+
+<center>
 
 **FORMAL EDUCATION**
 
@@ -76,9 +110,20 @@ integrate millions of domains from acquisitions like MelbourneIT and ENOM [Pytho
 Computer Programming and Analysis
 
 **CERTIFICATES**  
-Applications Developer
+Applications Developer  
 Internet Specialist
+
+</center>
+
+</section>
+
+<section>
+
+<center>
 
 **TECHNICAL SKILLS**  
 Python • JavaScript • Node.js • Perl • PHP • C • BASH • Django • React • Vue • HTMX • PostgreSQL • MySQL • Redis • CI/CD • Git • GitHub Actions • Jenkins • Kafka • Terraform • Kubernetes • Docker • Nomad • Consul • Vault • Elasticsearch • Kibana • Fluentd • Prometheus • Grafana • Unix • Linux • OpenStack • DigitalOcean • AWS • GCP
 
+</center>
+
+</section>
