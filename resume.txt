@@ -1,5 +1,6 @@
-COLIN CAMPBELL Toronto, CANADA • 416-995-9404 colin@emergesource.com •
-https://emergesource.com
+COLIN CAMPBELL
+Toronto, CANADA • 416-995-9404
+colin@emergesource.com • https://emergesource.com
 
 Versatile Software Engineering Leader with 20+ years of expertise in
 shipping full-stack software products. Dedicated to cultivating talent
@@ -19,8 +20,8 @@ Process Optimization • Continuous Improvement
 
 PROFESSIONAL EXPERIENCE
 
-TUCOWS INC, Toronto ON, 2015-2024 Director of Engineering, Platform
-Architecture
+TUCOWS INC, Toronto ON, 2015-2024
+Director of Engineering, Platform Architecture
 
 -   Responsible for strategic planning of Wavelo platform Architecture.
 -   Led a team of 34 engineers, managers and product managers.
@@ -73,8 +74,8 @@ Senior Software Engineer, Tucows Domains (2015-2017)
 -   Led engineering efforts for ongoing improvements and modernization
     of the OpenSRS platform.
 
-FIRE ENGINE RED, Philadelphia PA, 2012-2015 Senior Software Developer,
-Student Search
+FIRE ENGINE RED, Philadelphia PA, 2012-2015
+Senior Software Developer, Student Search
 
 -   Focused on developing solutions to help America’s colleges and
     universities connect with prospective students.
@@ -85,8 +86,8 @@ Student Search
 -   Provided guidance and leadership on testing & refactoring of legacy
     codebase.
 
-MEDICAL PHARMACIES GROUP INC, Pickering ON, 2003-2012 Senior Software
-Developer, Pharmacy Engineering
+MEDICAL PHARMACIES GROUP INC, Pickering ON, 2003-2012
+Senior Software Developer, Pharmacy Engineering
 
 -   Led a small, focused team of 3 engineers dedicated to improving
     patient outcomes.
@@ -105,13 +106,15 @@ Developer, Pharmacy Engineering
 
 FORMAL EDUCATION
 
-Seneca College of Applied Arts and Technology Computer Programming and
-Analysis
+Seneca College of Applied Arts and Technology
+Computer Programming and Analysis
 
-CERTIFICATES Applications Developer Internet Specialist
+CERTIFICATES
+Applications Developer Internet Specialist
 
-TECHNICAL SKILLS Python • JavaScript • Node.js • Perl • PHP • C • BASH •
-Django • React • Vue • HTMX • PostgreSQL • MySQL • Redis • CI/CD • Git •
-GitHub Actions • Jenkins • Kafka • Terraform • Kubernetes • Docker •
-Nomad • Consul • Vault • Elasticsearch • Kibana • Fluentd • Prometheus •
-Grafana • Unix • Linux • OpenStack • DigitalOcean • AWS • GCP
+TECHNICAL SKILLS
+Python • JavaScript • Node.js • Perl • PHP • C • BASH • Django • React •
+Vue • HTMX • PostgreSQL • MySQL • Redis • CI/CD • Git • GitHub Actions •
+Jenkins • Kafka • Terraform • Kubernetes • Docker • Nomad • Consul •
+Vault • Elasticsearch • Kibana • Fluentd • Prometheus • Grafana • Unix •
+Linux • OpenStack • DigitalOcean • AWS • GCP
