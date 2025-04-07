@@ -11,7 +11,16 @@ body {
     padding: 2em 0;
 }
 
-h1 { 
+/* h1, h2, h3, h4, h5, h6 {
+    font-size: inherit;
+    font-weight: bold;
+} */
+
+/* h1 {
+    text-align: center;
+} */
+
+/* h1 { 
 	font-size: 1.5em;
 	font-weight: 600;
 	letter-spacing: .1em;
@@ -49,6 +58,14 @@ h3 small {
     font-weight: 600;
     padding-left: .5em;
     letter-spacing: .2em;
+} */
+
+h4 {
+    margin: 0;
+    font-weight: 600;
+    /* letter-spacing: .2em; */
+    /* text-transform: uppercase; */
+    text-align: center;
 }
 
 section {

@@ -1,7 +1,7 @@
 
 __COLIN CAMPBELL__
 Toronto, CANADA • 416-995-9404
-colin@emergesource.com • https://www.linkedin.com/in/colincode/
+colin@emergesource.com • https://emergesource.com
 
 Versatile Software Engineering Leader with 20+ years of expertise in shipping full-stack software products. Dedicated to cultivating talent and creating an environment where individuals have fun and thrive.  Skilled at guiding cross-functional teams to achieve measurable success while fostering a culture of trust, creativity, and continuous growth.
 
@@ -11,10 +11,10 @@ Engineering Leadership • Team Building • Coaching & Mentoring • Strategic 
 
 ___
 
-__PROFESSIONAL EXPERIENCE__
+**PROFESSIONAL EXPERIENCE**
 
-__TUCOWS INC, Toronto ON, 2015-2024__
-__Director of Engineering, Platform Architecture__
+**TUCOWS INC, Toronto ON, 2015-2024**
+**Director of Engineering, Platform Architecture**
 
 * Responsible for strategic planning of Wavelo platform Architecture.
 * Led a team of 34 engineers, managers and product managers.
@@ -28,7 +28,7 @@ to platform services while they focus on their business initiatives.
 * Secured $2M with Scientific Research and Experimental Development (SR&ED) Tax Credit.
 * Designed and engineered Wavelo event gateway to manage ingress of millions of daily customer requests. [Typescript, Redis, Kafka]
 
-__Engineering Manager, Tucows Domains (2017-2021)__
+**Engineering Manager, Tucows Domains (2017-2021)**
 
 * Responsible for both the OpenSRS UI Hover engineering teams [Rails, React].
 * Managed cross-functional collaboration and project delivery.
@@ -40,7 +40,7 @@ __Engineering Manager, Tucows Domains (2017-2021)__
 * Modernized CICD pipelines from Jenkins to github actions 
 * Delivered modern domain admin tooling with Vuejs.
 
-__Senior Software Engineer, Tucows Domains (2015-2017)__
+**Senior Software Engineer, Tucows Domains (2015-2017)**
 
 * Delivered key frontend components for GDPR readiness [Perl, Vuejs, React]. 
 * Provided timely improvements to aging SOLR implementation.
@@ -49,17 +49,16 @@ integrate millions of domains from acquisitions like MelbourneIT and ENOM [Pytho
 * Worked with the Automattic team on the PHP OpenSRS toolkit leading Tucows to acquire Millions of WordPress.com domain registrations from GoDaddy.
 * Led engineering efforts for ongoing improvements and modernization of the OpenSRS platform.
 
-__FIRE ENGINE RED, Philadelphia PA,  2012-2015__
-__Senior Software Developer, Student Search__ 
+**FIRE ENGINE RED, Philadelphia PA,  2012-2015**
+**Senior Software Developer, Student Search**
 
 * Focused on developing solutions to help America’s colleges and universities connect with prospective students.
 * Played a key role in delivering a CRM-based admission and alumni search solution. [PHP, Symfony, Laravel]
 * Leveraged Apache Solr to provide real-time, multi-user search capabilities and decision-making.
 * Provided guidance and leadership on testing & refactoring of legacy codebase.
 
-
-__MEDICAL PHARMACIES GROUP INC, Pickering ON, 2003-2012__
-__Senior Software Developer, Pharmacy Engineering__
+**MEDICAL PHARMACIES GROUP INC, Pickering ON, 2003-2012**
+**Senior Software Developer, Pharmacy Engineering**
 
 * Led a small, focused team of 3 engineers dedicated to improving patient outcomes.
 * Relied on automation to maintain efficiency and maximize impact with limited resources.
@@ -71,16 +70,15 @@ __Senior Software Developer, Pharmacy Engineering__
     care insights. [VMware]
 * Maintained operational redundancies with hardware and software. [Perl, VMware]
 
+**FORMAL EDUCATION**
 
-__FORMAL EDUCATION__
-
-__Seneca College of Applied Arts and Technology__
+**Seneca College of Applied Arts and Technology**
 Computer Programming and Analysis
 
-__CERTIFICATES__
+**CERTIFICATES**
 Applications Developer
 Internet Specialist
 
-__TECHNICAL SKILLS__
+**TECHNICAL SKILLS**
 Python • JavaScript • Node.js • Perl • PHP • C • BASH • Django • React • Vue • HTMX • PostgreSQL • MySQL • Redis • CI/CD • Git • GitHub Actions • Jenkins • Kafka • Terraform • Kubernetes • Docker • Nomad • Consul • Vault • Elasticsearch • Kibana • Fluentd • Prometheus • Grafana • Unix • Linux • OpenStack • DigitalOcean • AWS • GCP
 
