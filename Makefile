@@ -1,4 +1,4 @@
-all: resume.html resume.pdf resume.txt resume.css ColinCampbell.zip
+all: resume.html resume.pdf resume.txt resume.css ColinCampbellResume.zip
 
 resume.html: resume.md resume.css
 	pandoc --standalone  -c resume.css --from markdown --to html -o resume.html resume.md 
@@ -18,5 +18,5 @@ ColinCampbellResume.zip: resume.md resume.pdf resume.html resume.txt
 	rm ColinCampbellResume.md ColinCampbellResume.pdf ColinCampbellResume.html ColinCampbellResume.txt
 
 clean:
-	rm -f *.html *.pdf *.txt
+	rm -f *.html *.pdf *.txt *.zip
 
