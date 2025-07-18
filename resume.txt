@@ -1,105 +1,129 @@
-Colin Campbell
+COLIN CAMPBELL
 
-Software Engineering & Leadership
+Toronto, CANADA
+colin@emergesource.com · linkedin.com/in/colincode ·
+github.com/emergesource
 
 ------------------------------------------------------------------------
 
-Profile
+SUMMARY
 
-I am an accomplished Engineering Leader with a proven track record of
-driving high-performance teams to deliver impactful results. I’m Known
-for fostering a culture of innovation, collaboration, and fun while
-navigating complex technical challenges. I’ve been recognized as an
-empathetic leader who values open communication and actively listens to
-team members’ needs and concerns. I’m dedicated to cultivating talent
-and creating an environment where individuals thrive and organizations
-succeed. Experienced in leading cross-functional teams and delivering
-projects on time and within budget. I’m ready to leverage my expertise
-in software development, architecture, and team leadership to drive
-excellence in your organization.
+Hands-on engineering leader with 20+ years of experience building
+scalable platforms and guiding cross-functional teams. Proven track
+record of leading architecture initiatives, mentoring developers, and
+aligning technical decisions with business goals.
 
-Experience
+------------------------------------------------------------------------
 
-Director of Engineering TUCOWS/Wavelo 2021-2024
+EXPERIENCE
 
-At Wavelo, I served as the Director of Engineering for Software
-Architecture, leading a team of 34 engineers and managers. I was
-responsible for the long-term vision and strategic planning of the
-platform that powers Wavelo’s mobile services.
+EMERGESOURCE – Toronto, ON | 2025-present
+Founder, Fractional CTO
 
--   Designed and implemented Wavelo’s event driven microservice
-    architecture.
--   Ensured high reliability for 8 million BOOST subscribers by
-    operating Wavelo’s cloud platform.
--   Collaborated with other department leads to deliver on strategic
-    initiatives.
--   Lead an observability transition from Datadog to Grafana saving
-    millions in operating costs.
--   Delivered self-service platform tools allowing internal engineering
-    teams to opt-in to platform services while they focus on their
-    business initiatives.
+-   Co founded Turnstile stubs as CTO https://turnstilestubs.com
+-   Co founded Estatecalm property services as CTO
+    https://estatecalm.com
+-   Early stage advising & software architecture for MamaMest
+    https://mamamest.com
+-   Launched However Briefly minimalist news aggregator
+    https://howeverbriefly.com
+-   Launched Hockey Humour site https://willtheleafswintonight.com
 
-Engineering Manager, TUCOWS/Domains 2017-2021
+TUCOWS / WAVELO – Toronto, ON | 2015 – 2024
+Director of Engineering, Software Architecture (2021 – 2024)
 
-As an Engineering Manager at Tucows Domains, I took a hands-on approach
-while overseeing multiple teams of 4-6 people, including the OpenSRS UI
-and Hover engineering teams.
+-   Prototyped and validated core system components, reducing
+    architectural risk and accelerating delivery timelines by 40%
+-   Designed and implemented event-driven architecture with Kafka,
+    processing millions of messages daily and enabling decoupled,
+    fault-tolerant services
+-   Developed and implemented an event gateway, enabling product
+    engineering teams to expose microservice events to subscribers while
+    opting in to standardized platform tooling like rate limiting,
+    deduplication, synchronous APIs, and throttling
+-   Developed platform infrastructure using Terraform, OpenStack, and
+    Nomad, managing hundreds of nodes and reducing provisioning time by
+    70%
+-   Implemented zero-downtime CI/CD systems, increasing deployment
+    frequency by 5× while cutting production incidents by 60%
+-   Migrated observability platform from Datadog to Grafana Labs,
+    delivering $10M+ in annual savings and improving visibility and
+    alerting across all environments
+-   Submitted SR&ED tax credit application, securing $2M in R&D credits
+    through strategic documentation of platform architecture and
+    engineering efforts
 
--   Provided Kafka event driven reference architecture and migration
-    plan to modernize OpenSRS.
--   Manged Hover beyond the 2 million domains under management
-    milestone.
--   Rejuvenated Hover background processing with Sidekick.
--   Modernized CICD pipelines from Jenkins to github actions
--   Delivered modern domain admin tooling with vuejs.
+Engineering Manager (2017-2021)
 
-Senior Engineer, Tucows/Domains 2015-2017
+-   Led engineering teams for OpenSRS UI and Hover, balancing delivery,
+    technical direction, and team growth across multiple product lines
+-   Modernized Hover’s background job architecture using Sidekiq,
+    reducing job latency by 60% and cutting failure rates in half
+-   Designed Kafka-based reference architecture and migration plan,
+    enabling scalable, event-driven workflows that now support millions
+    of domain events per day
+-   Took a hands-on role coding and mentoring teams of 4–6 engineers,
+    accelerating onboarding and improving engineering confidence,
+    contributing to 2+ internal promotions
+-   Shipped modern admin tools for Hover and OpenSRS, reducing support
+    team escalations by 40% and improving admin response times
+-   Migrated CI/CD pipelines from Jenkins to GitHub Actions, reducing
+    deployment times from 20 minutes to under 5, and enabling daily
+    production deploys
+-   Crossed the 2 million domain milestone for Hover, scaling systems to
+    support continued double-digit growth in domains under management
+-   Drove team alignment and delivery strategy, improving roadmap
+    execution through tighter integration and cross-team coordination
 
-As a Senior Engineer at Tucows Domains, I was initially hired to liaise
-with the WordPress/Automattic group and prepare OpenSRS for the .blog
-launch. After the launch, I stayed on with the OpenSRS team in an
-engineering and team lead role.
+Engineering Team Lead (2015-2017)
 
--   Delivered key frontend components for GDPR readiness.
--   Provided timely improvements to aging SOLR implementation.
--   Contributed to the OpenSRS Domain Platform migration, enabling
-    Tucows to integrate millions of domains from acquisitions like
-    MelbourneIT and ENOM.
--   Worked with the Autmattic team on the PHP OpenSRS toolkit leading
-    Tucows to acquire WordPress.com domain registrations from GoDaddy.
--   Prepared aging OpenSRS PERL codebase for modernization with
-    refactoring and testing.
+-   Led ongoing engineering efforts to modernize the OpenSRS platform,
+    driving improvements across architecture, developer experience, and
+    platform maintainability
+-   Delivered key frontend components for GDPR compliance, ensuring
+    OpenSRS met evolving privacy regulations across global markets
+-   Improved stability and performance of legacy SOLR search
+    infrastructure, reducing operational overhead and supporting
+    platform longevity
+-   Executed OpenSRS Domain Platform migrations, supporting the seamless
+    integration of over 2 million domains under management from
+    acquisitions including Melbourne IT and eNom
+-   Led technical collaboration efforts with the Automattic team on the
+    PHP OpenSRS toolkit, enabling integration with wordpress.com and
+    facilitating the sale of over 300,000 domains from GoDaddy
 
-Senior Software Developer, FIRE ENGINE RED 2012-2015
+FIRE ENGINE RED - Philadelphia, PA | 2012-2015
+Senior Software Developer
 
-As a Senior Developer at Fire Engine Red, I was a trusted individual
-contributor on the engineering team, dedicated to keeping America’s
-colleges and universities stocked with fresh minds.
+-   Developed solutions to help America’s colleges and universities
+    connect with prospective students, improving engagement and outreach
+    capabilities
+-   Played a key role in delivering a CRM-based admissions and alumni
+    search solution, streamlining recruitment and alumni relations
+    processes
+-   Leveraged Apache Solr to enable real-time, multi-user search
+    functionality, enhancing decision-making and user experience
+-   Provided guidance and leadership in testing and refactoring legacy
+    codebases, improving code quality and maintainability
 
--   Implemented admission and alumni search solution to flagship CRM
-    product, leveraging Apache solr to deliver instant search results on
-    multiple user data points for (near) real time decision making.
--   Provided guidance and leadership on testing & refactoring of legacy
-    codebase.
+MEDICAL PHARMACIES - Pickering, ON | 2003-2012
+Senior Software Developer
 
-Senior Software Developer, MEDICAL PHARMACIES 2003-2012
-
-As a Senior Engineer, I led a small team of 3 focused on improving
-patient outcomes. With a small crew, I leaned heavily on automation to
-stay efficient, and learned firsthand how crucial testing and
-reliability are since a mistake could have serious real-world
-consequences.
-
--   First to market on innovative mobile pharmacy interaction tools.
--   Delivered a patient aware drug inventory system servicing thousands
-    of beds that drastically reduced medication errors and pharmacy
-    waste.
+-   Led a focused team of 3 engineers dedicated to improving patient
+    outcomes, fostering innovation and collaboration
+-   Pioneered first-to-market mobile pharmacy interaction tools,
+    enhancing patient engagement and care coordination
+-   Delivered a patient-aware drug inventory system serving thousands of
+    beds, significantly reducing medication errors and pharmacy waste
 -   Implemented a highly available data warehouse solution across 30+
-    retail locations, providing the organization with much needed
-    business and patient care insights.
--   Maintained operational redundancies with hardware and software.
+    retail locations, improving data accessibility and operational
+    reporting
+-   Maintained operational redundancies with hardware and software,
+    ensuring system reliability and minimizing downtime
 
-Skills
+------------------------------------------------------------------------
+
+SKILLS
 
 Leadership
 
@@ -109,32 +133,27 @@ Leadership
 
 Technology
 
--   Python, Javascript/nodejs, Perl, PHP, C
--   React + Flux, Vuejs + Vuext
--   Kafka, Redis, PostgreSQL, MySQL
--   Docker, Nomad, Consul, Vault, Kubernetes
+-   Python, JavaScript, Node.js, Perl, PHP, C, BASH, Django
+-   React, Vue, HTMX, Flutter
+-   PostgreSQL, MySQL, Redis
+-   Git, GitHub Actions, Jenkins
+-   Kafka, Terraform, Kubernetes, Docker, Nomad, Consul, Vault
 -   Elasticsearch, Kibana, Fluentd, Prometheus, Grafana
+-   Unix, Linux, OpenStack, DigitalOcean, AWS, GCP, Supabase
 
-Education & Interests
+------------------------------------------------------------------------
+
+EDUCATION
 
 Seneca College of Applied Arts and Technology
 
--   Computer Programming and Analysis Diploma
--   Applications Developer specialization
--   Internet Specialist specialization
+Computer Programming and Analysis
+Certificates: Applications Developer, Internet Specialist
 
-Interests
+------------------------------------------------------------------------
+
+INTERESTS
 
 -   Captain of my “D” league championship hockey team
 -   Guitar player extraordinaire
 -   Lifelong vimrc tinkerer
-
-------------------------------------------------------------------------
-
-Contact
-
-  -   Phone: 416-995-9404
-  -   Mail: colin@emergesource.com
-  -   Web: https://cc4m.net
-  -   linkedin: https://www.linkedin.com/in/colincode/
-  -   github: https://github.com/emergesource
